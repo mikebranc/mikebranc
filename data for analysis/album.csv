@@ -1,0 +1,940 @@
+album_id,name,total_tracks,release_date,album_type,artist_id,popularity
+4iz9Pqwpw8HljZei6XFCGd,That Way,1.0,2020-03-01,single,4O15NlyKLIASxsJ0PrXPfz,76
+4uTOUYhLrGRKkfxfPKTkuy,Futsal Shuffle 2020,1.0,2019-12-12,single,4O15NlyKLIASxsJ0PrXPfz,73
+5UL4JeebFRM3CwLfk7ZAlh,Show U Off (feat. Lil Uzi Vert),1.0,2019-04-26,single,4O15NlyKLIASxsJ0PrXPfz,33
+2WyjmS6PEAE2V9oh5So588,Show U Off (feat. Lil Uzi Vert),1.0,2019-04-26,single,4O15NlyKLIASxsJ0PrXPfz,38
+49K82qcZN4u109e6Zw8io1,Sanguine Paradise,1.0,2019-04-09,single,4O15NlyKLIASxsJ0PrXPfz,71
+7jV7IRYpTLmTJe7uZXZCZh,That's a Rack,1.0,2019-04-09,single,4O15NlyKLIASxsJ0PrXPfz,62
+1BMfByaGjaWoSraUSfCQQh,420 in London,1.0,2018-10-02,single,4O15NlyKLIASxsJ0PrXPfz,44
+435lskCkjbKTmpmescTIpI,New Patek,1.0,2018-09-21,single,4O15NlyKLIASxsJ0PrXPfz,28
+64eE6FnNj7UJ9LEkN4EbvS,New Patek,1.0,2018-09-18,single,4O15NlyKLIASxsJ0PrXPfz,62
+7hVFsGvQ1apmp4EAldMwID,Watch (feat. Lil Uzi Vert & Kanye West),1.0,2018-05-04,single,4O15NlyKLIASxsJ0PrXPfz,58
+3uDbCFQLj4zd7uqXQscEIt,Watch (feat. Lil Uzi Vert & Kanye West),1.0,2018-05-02,single,4O15NlyKLIASxsJ0PrXPfz,0
+51HrCduoCfmUtzrYHf7onw,Sauce It Up,1.0,2018-02-16,single,4O15NlyKLIASxsJ0PrXPfz,38
+0KaQCJshy3j3TKCu59Yh6X,Smoke My Dope (with Steve Aoki & Lil Uzi Vert) (From Bright: The Album),1.0,2017-12-15,single,4O15NlyKLIASxsJ0PrXPfz,32
+6x8tzop53PDl2tvjIXB9a0,The Way Life Goes (feat. Nicki Minaj & Oh Wonder) [Remix],1.0,2017-11-03,single,4O15NlyKLIASxsJ0PrXPfz,53
+3dIJfqjcEFjBlLoN1B8LU3,The Way Life Goes (feat. Nicki Minaj & Oh Wonder) [Remix],1.0,2017-11-02,single,4O15NlyKLIASxsJ0PrXPfz,19
+749Tz64P7CRASs0uiKIEGU,Zambamafoo,1.0,2017-07-31,single,4O15NlyKLIASxsJ0PrXPfz,38
+5RwV0u1A3sQELA5e5llaKs,Go Off,1.0,2017-03-03,single,4O15NlyKLIASxsJ0PrXPfz,23
+7ud6EsFurWtzF3lzB8YqNI,Go Off,1.0,2017-03-03,single,4O15NlyKLIASxsJ0PrXPfz,46
+3G9US0Byt1UldeKifKPIwa,Go Off,1.0,2017-03-02,single,4O15NlyKLIASxsJ0PrXPfz,47
+2LLktilGbQD95Bqt6ZXJX7,We Rollin (feat. Lil Uzi Vert & Rome Fortune),1.0,2016-04-22,single,4O15NlyKLIASxsJ0PrXPfz,23
+1kLcxp6VxnDTXgAPCFTeiy,Money Longer,1.0,2016-04-01,single,4O15NlyKLIASxsJ0PrXPfz,32
+2xjjRh1xKSDBq6vE5XiroA,Money Longer,1.0,2016-04-01,single,4O15NlyKLIASxsJ0PrXPfz,6
+3TBDsoyXYFtAciT0bQjKDl,Count Dem Rolls (feat. Uzi Gang),1.0,2014,single,4O15NlyKLIASxsJ0PrXPfz,35
+0fEO7g2c5onkaXsybEtuD2,Eternal Atake (Deluxe) - LUV vs. The World 2,32.0,2020-03-13,album,4O15NlyKLIASxsJ0PrXPfz,90
+7IyoGB8J31fvQDwGtHAq9m,Eternal Atake,18.0,2020-03-06,album,4O15NlyKLIASxsJ0PrXPfz,91
+0zicd2mBV8HTzSubByj4vP,Luv Is Rage 2 (Deluxe),20.0,2017-11-17,album,4O15NlyKLIASxsJ0PrXPfz,74
+3JeNGvA44e3pPkl4axzIjZ,Luv Is Rage 2 (Deluxe),20.0,2017-11-17,album,4O15NlyKLIASxsJ0PrXPfz,42
+733e1ZfktLSwj96X5rsMeE,Luv Is Rage 2,16.0,2017-08-25,album,4O15NlyKLIASxsJ0PrXPfz,80
+2DiIYE1nwRB4JW42HoXBnu,Luv Is Rage 2,16.0,2017-08-24,album,4O15NlyKLIASxsJ0PrXPfz,47
+6LX75kNicFqjjiAOeZgN67,The Perfect LUV Tape,10.0,2016-08-10,album,4O15NlyKLIASxsJ0PrXPfz,72
+7mgdTKTCdfnLoa1HXHvLYM,Lil Uzi Vert vs. The World,9.0,2016-05-27,album,4O15NlyKLIASxsJ0PrXPfz,74
+5WrbKW1nRN4vSsu70uizxX,Luv Is Rage,12.0,2015-12-18,album,4O15NlyKLIASxsJ0PrXPfz,68
+432608DLpP0hExluDkY3Yh,Gucci Pajamas (feat. Chance the Rapper and Charlie Wilson),1.0,2019-10-03,single,1anyVhU62p31KFi8MEzkbf,40
+49bXZtlI5kQSqQMSCnSaWO,Cross Me (feat. Chance the Rapper & PnB Rock) [M-22 Remix],1.0,2019-06-21,single,1anyVhU62p31KFi8MEzkbf,45
+5MKInakULmoBNApeB2ZB3A,Cross Me (feat. Chance the Rapper & PnB Rock),1.0,2019-05-24,single,1anyVhU62p31KFi8MEzkbf,64
+4tvWn8rsp56lzyMKV409Og,GRoCERIES,1.0,2019-05-17,single,1anyVhU62p31KFi8MEzkbf,59
+3oa90TbTT5bJwCUJ5fDmvu,The Man Who Has Everything,1.0,2018-11-30,single,1anyVhU62p31KFi8MEzkbf,50
+6RQhltF3miWYkdfDT0JIbG,My Own Thing,1.0,2018-11-29,single,1anyVhU62p31KFi8MEzkbf,50
+3vmi56TsSbDKwnN9ZnWROz,Wake Up (feat. Chance the Rapper),1.0,2018-11-05,single,1anyVhU62p31KFi8MEzkbf,28
+5pQOfgCqpu4RrJAfQToFa8,I Might Need Security,1.0,2018-07-19,single,1anyVhU62p31KFi8MEzkbf,51
+53vsM5JN76NXiv7aj4PXK1,Work Out,1.0,2018-07-18,single,1anyVhU62p31KFi8MEzkbf,46
+3aMsYP1nhJx0rJ6DX6bvAe,Wala Cam,1.0,2018-07-17,single,1anyVhU62p31KFi8MEzkbf,41
+3SQBhLa7AkmCNWuDmJpRkD,65th & Ingleside,1.0,2018-07-16,single,1anyVhU62p31KFi8MEzkbf,46
+4OtCzrYbNZp8c5czzAJeUP,Angels (feat. Saba),1.0,2015-10-27,single,1anyVhU62p31KFi8MEzkbf,41
+7bgi7zCoDsZdlLKPonHZqP,The Big Day,22.0,2019-07-26,album,1anyVhU62p31KFi8MEzkbf,73
+7niOG7nbuUzXSvNtJruogj,The Big Day,22.0,2019-07-26,album,1anyVhU62p31KFi8MEzkbf,42
+71QyofYesSsRMwFOTafnhB,Coloring Book,14.0,2016-05-27,album,1anyVhU62p31KFi8MEzkbf,73
+2VBcztE58pBKjIDS5oEgFh,Acid Rap,14.0,2013-04-30,album,1anyVhU62p31KFi8MEzkbf,69
+6bUsvxMAuR8NXG2ujCU4yi,10 Day,14.0,2012-04-03,album,1anyVhU62p31KFi8MEzkbf,54
+1fBcjfHpvjKj8ofg8NAhmM,Psycho! (Remix) (feat. Trippie Redd),1.0,2020-04-14,single,6Xgp2XMz1fhVYe7i6yNAax,0
+2fKJAIWnOn6VQwnpNl3Bso,The Way (feat. Russ),1.0,2020-02-19,single,6Xgp2XMz1fhVYe7i6yNAax,60
+2orYogfKeURqyS1hRP1vZ4,YELL OH,1.0,2020-02-07,single,6Xgp2XMz1fhVYe7i6yNAax,60
+4wjwgVjWzrMv7Tp8w9Rmnd,YELL OH (feat. Young Thug),1.0,2020-02-07,single,6Xgp2XMz1fhVYe7i6yNAax,44
+0yiQkEA0kGrkvhlQkpu30d,Wake Up Call (feat. Trippie Redd),1.0,2020-01-30,single,6Xgp2XMz1fhVYe7i6yNAax,30
+2CNIeGAVIK6FSWiQK0MBLS,Wake Up Call (feat. Trippie Redd),1.0,2020-01-27,single,6Xgp2XMz1fhVYe7i6yNAax,66
+6ayA69JRJzCvDGeZir7Ysr,Who Needs Love,1.0,2019-11-19,single,6Xgp2XMz1fhVYe7i6yNAax,51
+0wb2DaHDhLUUS5RRFa26U9,Death (feat. DaBaby),1.0,2019-11-12,single,6Xgp2XMz1fhVYe7i6yNAax,65
+6DNpFe4WAWTa84I6JBuey6,Love Me More,1.0,2019-11-01,single,6Xgp2XMz1fhVYe7i6yNAax,58
+6uVGwJBJrKEunfTqWCDyn2,Love Me More,1.0,2019-11-01,single,6Xgp2XMz1fhVYe7i6yNAax,38
+0zLTh5nuGUWbCPPiaeAPnb,!,1.0,2019-08-07,single,6Xgp2XMz1fhVYe7i6yNAax,36
+2qLbbPRZS6rQo44nXH8Z9H,!,1.0,2019-08-07,single,6Xgp2XMz1fhVYe7i6yNAax,5
+2HLwLpyTKv5C2ezhxYuQ5U,Mac 10,1.0,2019-07-24,single,6Xgp2XMz1fhVYe7i6yNAax,53
+2nXb6mFjYhHmcyhBV6LZ30,Mac 10,1.0,2019-07-24,single,6Xgp2XMz1fhVYe7i6yNAax,27
+6ZhOC5xr3JOdr7hmQTSqyR,gone girl,1.0,2019-07-04,single,6Xgp2XMz1fhVYe7i6yNAax,61
+2iVrW4u0oPERFW5tpkvNAw,Under Enemy Arms,1.0,2019-05-29,single,6Xgp2XMz1fhVYe7i6yNAax,50
+6sk39wHqIBBxwBvqSj7jl4,Under Enemy Arms,1.0,2019-05-29,single,6Xgp2XMz1fhVYe7i6yNAax,27
+5HxAReosORRcreO0KH6kve,Topanga,1.0,2018-10-22,single,6Xgp2XMz1fhVYe7i6yNAax,31
+6cd8LVLiKVM3RYI42HkapE,Taking A Walk,1.0,2018-08-06,single,6Xgp2XMz1fhVYe7i6yNAax,46
+3wfGIfiVa5764OJIdd8IwL,Love & Drugz II,1.0,2018-07-20,single,6Xgp2XMz1fhVYe7i6yNAax,40
+5jpVsmuJfZl3gGvfPLHyiA,Me Likey,1.0,2018-06-22,single,6Xgp2XMz1fhVYe7i6yNAax,43
+3M2PJCMOf07WgD9r71asB5,How You Feel,1.0,2018-06-21,single,6Xgp2XMz1fhVYe7i6yNAax,32
+2CH8od3NBJpsvqTdY3H1HH,Jump (with Trippie Redd),1.0,2018-05-04,single,6Xgp2XMz1fhVYe7i6yNAax,54
+2oeslyXeC2BH0UXSv5O1GH,Jump (with Trippie Redd),1.0,2018-05-04,single,6Xgp2XMz1fhVYe7i6yNAax,17
+7jQXJtOgQsR8NpLdKZ8iv1,Wish (feat. Trippie Redd),1.0,2018-03-22,single,6Xgp2XMz1fhVYe7i6yNAax,47
+0D2ArJUb7VQ2tVmsHZohUZ,Dark Knight Dummo (Feat. Travis Scott),1.0,2017-12-05,single,6Xgp2XMz1fhVYe7i6yNAax,61
+7wkvOZR4wvDuu1dQYndTNO,Angels & Demons,5.0,2017-10-31,single,6Xgp2XMz1fhVYe7i6yNAax,32
+7emMyaAzr0nZ7yP8P02zdu,Ill Nana (feat. Trippie Redd),1.0,2017-09-29,single,6Xgp2XMz1fhVYe7i6yNAax,21
+2q3JHVSCf7EDm6hYKTYbgB,Ill Nana (feat. Trippie Redd),1.0,2017-09-28,single,6Xgp2XMz1fhVYe7i6yNAax,0
+14ykV7sI2kUNPUgQbbAQIS,In Too Deep,1.0,2017-09-27,single,6Xgp2XMz1fhVYe7i6yNAax,31
+3UvaDivs0zQN3B1D4v3wzf,Bust Down,1.0,2017-09-15,single,6Xgp2XMz1fhVYe7i6yNAax,37
+322J4HMRGXW1AIczWJkPfU,Chair Falling,1.0,2017-07-11,single,6Xgp2XMz1fhVYe7i6yNAax,34
+5Hsaxc6a2GWPAqXttPFbY0,A Love Letter To You 4 (Deluxe),29.0,2020-02-21,album,6Xgp2XMz1fhVYe7i6yNAax,67
+0tKX7BLXiiRgXUKYdJzjEz,A Love Letter To You 4,21.0,2019-11-22,album,6Xgp2XMz1fhVYe7i6yNAax,81
+2sdJtAHONSZdHAqI3W9TrL,A Love Letter To You 4,21.0,2019-11-22,album,6Xgp2XMz1fhVYe7i6yNAax,45
+11vLnrFGWQRbonR6wFuCf8,!,13.0,2019-08-09,album,6Xgp2XMz1fhVYe7i6yNAax,69
+30BzlWP45oDctXuwQWzOIo,!,13.0,2019-08-09,album,6Xgp2XMz1fhVYe7i6yNAax,35
+6qRbGZqJ3aQY8N8bcHc1ug,A Love Letter To You 3,16.0,2018-11-09,album,6Xgp2XMz1fhVYe7i6yNAax,77
+214f4uAY0p2KgY7Fl4fBgk,LIFE'S A TRIP,14.0,2018-08-10,album,6Xgp2XMz1fhVYe7i6yNAax,76
+55XA1uIQSqmlTBkVVx6ptz,A Love Letter To You 2,14.0,2017-10-06,album,6Xgp2XMz1fhVYe7i6yNAax,62
+7ae73nWyKrrH9wwGm97RIA,A Love Letter To You,12.0,2017-05-14,album,6Xgp2XMz1fhVYe7i6yNAax,73
+7Ddeaiib1prp689aHF0ILF,Locationships,1.0,2019-01-28,single,0huGjMyP507tBCARyzSkrv,50
+2aNIYQ7ewBTpvT2gbuE903,Locationships,1.0,2019-01-27,single,0huGjMyP507tBCARyzSkrv,12
+2EIrVowJlZncpA9aKjohb9,Kung Fu,1.0,2018-07-13,single,0huGjMyP507tBCARyzSkrv,63
+34t7kwuWKe4iyoHeqjglsg,Old niggas,1.0,2018-05-16,single,0huGjMyP507tBCARyzSkrv,43
+6Pb7PMZtW0fuEM1lCGvCDu,The Lost Boy,15.0,2019-07-26,album,0huGjMyP507tBCARyzSkrv,74
+1fis1tOVDsffi2Q9hkBLfC,The Lost Boy,15.0,2019-07-26,album,0huGjMyP507tBCARyzSkrv,34
+6l4itLa2SkBAVBASZ2WKFv,YBN: The Mixtape,23.0,2018-09-07,album,0huGjMyP507tBCARyzSkrv,69
+7Jq7aQPj4z2Rrh51nbBu4U,I Love It [(Freaky Girl) Edit],1.0,2018-09-30,single,5K4W6rqBFWDnAN6FQUkS6x,22
+185Tm1g5U7eMOrm3m9SQUh,I Love It,1.0,2018-09-07,single,5K4W6rqBFWDnAN6FQUkS6x,67
+1mTS3TI1DYu3U25RAVwwBv,I Love It,1.0,2018-09-06,single,5K4W6rqBFWDnAN6FQUkS6x,22
+6ggnUqpjfkDULwX0dr164j,XTCY,1.0,2018-08-30,single,5K4W6rqBFWDnAN6FQUkS6x,36
+0xFDwqM0pXFS7Bcz8raNOE,XTCY,1.0,2018-08-30,single,5K4W6rqBFWDnAN6FQUkS6x,6
+2hTxwsnzU7h15XcAUWSME8,Lift Yourself,1.0,2018-04-29,single,5K4W6rqBFWDnAN6FQUkS6x,49
+1PkFK7nfqX9jEMaIA8O12Y,Ye vs. the People (starring TI as the People),1.0,2018-04-28,single,5K4W6rqBFWDnAN6FQUkS6x,35
+0zepz9d3dDgoEE8Rzjs8G2,Ye vs. the People (starring TI as the People),1.0,2018-04-27,single,5K4W6rqBFWDnAN6FQUkS6x,10
+5oVUniYBHNdw6LKSQac5iH,All Day,1.0,2015-04-01,single,5K4W6rqBFWDnAN6FQUkS6x,24
+6PMuXABPVPf11EgTxrjroO,All Day,1.0,2015-03-02,single,5K4W6rqBFWDnAN6FQUkS6x,50
+7yBl4uFyJzH48Vy6tPieXL,FourFiveSeconds,1.0,2015-01-24,single,5K4W6rqBFWDnAN6FQUkS6x,69
+2ar6Yxkh6psvQOrGqk248v,Only One,1.0,2015-01-08,single,5K4W6rqBFWDnAN6FQUkS6x,48
+2ZQcUtW7OGSsd6LQNcYQoh,Clique,1.0,2012-09-06,single,5K4W6rqBFWDnAN6FQUkS6x,53
+0hWnFKG2S9mCzhbQNmFAGe,Cold,1.0,2012-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,36
+0hmFRR0pDSZIAvoJqEFSKv,Mercy,1.0,2012-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,60
+1A2K7r06jBl3iUo3kMYNnb,Mercy,1.0,2012-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,23
+3gFzpNzh1Kb48CwztWkeLu,New God Flow,1.0,2012-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,43
+0MhulrpJg1iyEuQVHQv9Su,New God Flow,1.0,2012-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,5
+0uAPk9JTejYKvlEoxayaFZ,Runaway (Explicit Version),1.0,2010-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,36
+4krLrtPXP4zr2r03Q2ZUHM,Runaway (Edited Version),1.0,2010-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,0
+5dknqUzmNc6HSL3DhoBfey,Alors On Danse,1.0,2010-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,20
+31dBitfDGugqFHLKrUT3rt,Christmas In Harlem,1.0,2010-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,25
+0GAyWmXVYXKFknfJk3645G,Paranoid,1.0,2009-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,10
+0hPcqGawJMPUeypvRAsIvJ,Love Lockdown (Essential 5 EP),5.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,17
+25Ou2ydwOg3kOiqjIIhFZY,Flashing Lights,2.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,22
+7qc7uP4et4ATd9YYUN2Azh,Homecoming,2.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,44
+2eITP5J0vgLdYyKDSiJ9Vu,Homecoming (Germany 2-track eSingle),2.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,3
+5lNW2UpJq0KKrnProitxv3,Homecoming,1.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,32
+2DeoUIL9jsa6YlaQQPFUzG,Homecoming,1.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,23
+2QW6OefeHoT7ROJHvc2cDS,Homecoming (Germany Version),2.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,5
+2ov5qgl5py9l26e9Shudk5,Love Lockdown,2.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,16
+6RiEJCCIfuoIVkFllfVj3N,Love Lockdown,1.0,2008-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,24
+34Zab56cGWioE5YMwvOf8d,Good Life,2.0,2007-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,27
+5Q2ds2vF2R1uXFa95oBegx,Stronger,2.0,2007-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,38
+7pm0pWEb4BQhsjIGa6PlwQ,"Kanye West Vodafone Mixtape (feat. snippets of Stronger, Champion, Good Life, Cann't Tell Me Nothing, I Wonder)",1.0,2007-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,6
+0kOhWJfxRY20tw5b22hIYu,Stronger (Remixes),2.0,2007,single,5K4W6rqBFWDnAN6FQUkS6x,17
+1Q145zB2X6JTHbcP1BClDn,Touch The Sky,3.0,2006-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,12
+3yqEuCToss6oo6GZSDbWF1,Touch The Sky,2.0,2006-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,16
+6myPpFt3Lq4ZSyFziQqzJT,Impossible,1.0,2006-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,25
+5xLxlrkwSh0gMp6LhpvzsC,Touch The Sky,2.0,2006-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,26
+6umfVigUSdSO4uq3tank7R,Diamonds From Sierra Leone,3.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,18
+4gP3i5bDhtPGAnMBpmQdfd,Diamonds From Sierra Leone,2.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,23
+08wsihQJihbKQxzhANr5Vr,Diamonds From Sierra Leone,2.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,1
+3MtVlwzc3GHBYZN0bIeSKv,Diamonds From Sierra Leone,1.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,19
+3SOhfJ744Gf0XuIkcrSQ12,The New Workout Plan,3.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,4
+2hR0mZCxXkZ48dmq7xEb2O,Gold Digger,3.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,19
+2KjGV5H2S2tXVdOJFXdYvd,Heard 'Em Say,3.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,9
+7lKGEnNpBNR8kjXfbs9c66,Heard 'Em Say,2.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,8
+1MJmRFANebEoc7kqCT9Aai,Heard 'Em Say,2.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,5
+67FtWExClJpODNRGtZBas6,Diamonds from Sierra Leone Remix ft Jay.z,1.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,16
+2i2w7w95NRbLd5BKYU9RCD,Diamonds From Sierra Leone Remix,1.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,20
+00Ez7sCJE0zJMpCg1wPigP,Gold Digger,2.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,28
+5Us5l37SEZyye4CvKFV1Eq,Gold Digger,2.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,12
+1ckw6eoYQj8PejLBuHQQnz,Touch The Sky,1.0,2005-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,6
+2WGzSy4sJ4etXpz9mk6zA6,Heard 'Em Say,2.0,2005,single,5K4W6rqBFWDnAN6FQUkS6x,15
+5F22SSKyE4rwA3YN6ncpXF,The New Workout Plan,1.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,12
+35EZOI24V46r3DBwgMSqOd,All Falls Down,4.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,27
+6cqyCuFvhQ84b8kuMSw16L,All Falls Down,2.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,4
+252A7DJaAnMW1JfpKBWtfu,All Falls Down,2.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,14
+75rbDc9Ik00r57svAKhG0w,All Falls Down (Live From The House of Blues),1.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,11
+5xtyFs4XoMvAxDGCAN3gds,Jesus Walks,2.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,15
+7cflbZkQ7lzeSWqME0RhRF,Jesus Walks (Live Version),1.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,11
+21ys97Ivvq8UPdi16XgQ70,Spaceships (Live Version),1.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,8
+51O2IPx2BYdgXykPYSVYVe,The New Workout Plan (Live Version),1.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,8
+1qHp7kuS94RA4vovXdnGTL,We Don't Care (Live Version),1.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,7
+0trjZp7SXk1jKZKko0nck0,Selfish,1.0,2004-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,27
+1aUiDjuQU4qo8vZTHjCqfJ,Through The Wire,2.0,2003-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,26
+3orLWTn3vQkmcWD5aGcUTC,Through The Wire,2.0,2003-01-01,single,5K4W6rqBFWDnAN6FQUkS6x,12
+0FgZKfoU2Br5sHOfvZKTI9,JESUS IS KING,11.0,2019-10-25,album,5K4W6rqBFWDnAN6FQUkS6x,77
+6pwuKxMUkNg673KETsXPUV,KIDS SEE GHOSTS,7.0,2018-06-08,album,5K4W6rqBFWDnAN6FQUkS6x,71
+2Ek1q2haOnxVqhvVKqMvJe,ye,7.0,2018-06-01,album,5K4W6rqBFWDnAN6FQUkS6x,71
+7gsWAHLeT0w7es6FofOXk1,The Life Of Pablo,20.0,2016-06-10,album,5K4W6rqBFWDnAN6FQUkS6x,78
+7u6Q36bDPiNegcQ7u69bKq,The Life Of Pablo,19.0,2016-04-05,album,5K4W6rqBFWDnAN6FQUkS6x,4
+7D2NdGvBHIavgLhmcwhluK,Yeezus,10.0,2013-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,71
+0A3g19AGFd9Qe3rAIkP8e0,Kanye West Presents Good Music Cruel Summer,12.0,2012-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,48
+2P2Xwvh2xWXIZ1OWY9S9o5,Watch The Throne (Deluxe),16.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,74
+1YwzJz7CrV9fd9Qeb6oo1d,Watch The Throne (Deluxe),16.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,27
+4P63UgNDUcF11MnWzyvVrh,Watch The Throne (Deluxe),16.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,36
+2IC7s3KVP6ottxQUnkm4eS,Watch The Throne (Deluxe),16.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,31
+7mCeLbChyegbRwwKK5shJs,Watch The Throne,12.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,49
+0OcMap99vLEeGkBCfCwRwS,Watch The Throne,12.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,58
+0eZRIt3Ht1IuMXsr0QR8OY,Watch The Throne,12.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,24
+6Oa0ZYzr4VdFIz3zNmYJYQ,Watch The Throne,12.0,2011-08-08,album,5K4W6rqBFWDnAN6FQUkS6x,22
+20r762YmB5HeofjMCiPMLv,My Beautiful Dark Twisted Fantasy,13.0,2010-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,77
+6klUp8sQyRXGuJhqZu4PG3,My Beautiful Dark Twisted Fantasy,13.0,2010-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,42
+5ykOQlHaE5ZRxMibfI75YW,808s & Heartbreak,12.0,2008-11-24,album,5K4W6rqBFWDnAN6FQUkS6x,11
+3WFTGIO6E3Xh4paEOBY9OU,808s & Heartbreak,12.0,2008-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,71
+2EvIPfiWOIxIZ193E8sK8w,Graduation (French Limited Version),15.0,2007-12-03,album,5K4W6rqBFWDnAN6FQUkS6x,34
+4SZko61aMnmgvNhfhgTuD3,Graduation,14.0,2007-09-11,album,5K4W6rqBFWDnAN6FQUkS6x,47
+5fPglEDz9YEwRgbLRvhCZy,Graduation,13.0,2007-09-11,album,5K4W6rqBFWDnAN6FQUkS6x,77
+6V0srAdQfEIarFvIxAYilH,Graduation,13.0,2007-09-11,album,5K4W6rqBFWDnAN6FQUkS6x,47
+4WNXpeZR1jc2NFgOAeyLMB,Graduation (Exclusive Edition),14.0,2007-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,13
+0FnTw6TY6iB5AHATPzCYkd,Graduation (Alternative Business Partners),14.0,2007-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,50
+0veuYKXCayS7oIfyqlibeR,Late Orchestration,13.0,2006-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,38
+5ll74bqtkcXlKE7wwkMq4g,Late Registration,21.0,2005-09-30,album,5K4W6rqBFWDnAN6FQUkS6x,71
+4yJqrqT2BpuXLj5BMJlAXR,Late Registration,21.0,2005-08-30,album,5K4W6rqBFWDnAN6FQUkS6x,40
+0Ds6i3h0F9RcYIKAD5Olum,Late Registration,22.0,2005-01-01,album,5K4W6rqBFWDnAN6FQUkS6x,58
+4Uv86qWpGTxf7fU7lG5X6F,The College Dropout,21.0,2004-02-10,album,5K4W6rqBFWDnAN6FQUkS6x,72
+3lQePoIm6iNQIiZkCYxCy0,The College Dropout,21.0,2004-02-10,album,5K4W6rqBFWDnAN6FQUkS6x,39
+3KNkqgPidrZtALysyposxI,New Axe,1.0,2019-11-08,single,3GBPw9NK25X1Wt2OUvOwY3,40
+43gQi7MWkI4NZXj4BnHpi7,Big Sur (MIke D Remix),1.0,2018-06-27,single,3GBPw9NK25X1Wt2OUvOwY3,9
+585PMrrTgTCtIbyX7WRQt0,Willie Got Me Stoned (Live),1.0,2018-04-20,single,3GBPw9NK25X1Wt2OUvOwY3,29
+3VfqKMnjoIsXjBdbKRpGWu,Spotify Singles,2.0,2017-12-06,single,3GBPw9NK25X1Wt2OUvOwY3,39
+1uzMDh8QFZHkCw4fFsqQFr,Spotify Singles - Holiday,1.0,2017-11-29,single,3GBPw9NK25X1Wt2OUvOwY3,19
+2HLWqyHfpx1npfiFSMosuZ,Seasick Dream,1.0,2015-12-01,single,3GBPw9NK25X1Wt2OUvOwY3,47
+10QI28MK6vQxxNJoGTjKq4,In The Morning,1.0,2011-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,25
+4wbbSmGoUbLydE7vKKFeAB,At Or With Me,3.0,2010-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,17
+3ljXg8nByPoxVN7QFdo9Dr,At Or With Me,1.0,2010-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,3
+3dDm3GIjNzQuloufZifyqs,You And Your Heart,2.0,2010-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,0
+3kRKSZttQFwXgdWAwh3oMJ,"Adrift (Live from the Solar Powered Plastic Plant, Chyron)",1.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,2
+0qgQlHJZ3F8AGPbrwEPoRJ,"Enemy (Live from the Solar Powered Plastic Plant, Chyron)",1.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,2
+1G2p5VxNqA3OyHVnYu2Gi6,Hope,2.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,18
+7l9PN5ec8elW9a2iniJTvL,"Hope (Live from the Solar Powered Plastic Plant, Chyron)",1.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,1
+6YZCuLcI6iw0wAbxIyw9R3,Sleep Through The Static (UK Version),1.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,3
+2hhNhFoNM6hUuleHFo8J3r,Sleep Through The Static: Remixed,6.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,26
+0Q35LuIC8z1wChZw20Leaz,"They Do, They Don't (Live from the Solar Powered Plastic Plant, Chyron)",1.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,1
+0SHXUFH6yhCvBRrvg3hsV3,"What You Thought You Need (Live from the Solar Powered Plastic Plant, Chyron)",1.0,2008-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,1
+1fD2qxIR0IHqZtASSg7ySc,If I Had Eyes,2.0,2007-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,11
+4H6Vj926e1tVCMl82zMIXR,If I Had Eyes,2.0,2007-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,21
+4nvgSs9EQXS5AIwprqq8OU,Upside Down,3.0,2006-02-24,single,3GBPw9NK25X1Wt2OUvOwY3,60
+3Mv2xv8Fsr5ZJc7ge7bR93,Let It Be Sung,1.0,2006-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,14
+4wIgXctxGSipzlN3AU1eMP,Talk Of The Town,2.0,2006-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,38
+7xEHscj7Wr1C2e7rt1sdDp,Upside Down (Sessions@AOL),1.0,2006-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,5
+2zenKRTGjKhRZE4e3Bp0Nf,Wasting Time (e-Bundle No.1),2.0,2006-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,2
+4547iU6Wn0viCDAVUroaKa,Wasting Time (e-Bundle No.3),2.0,2006-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,12
+16TIFjdID7825maP9BWQrn,Wasting Time (e-Bundle No.4),2.0,2006-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,16
+1YBsTcWJI57G7lTf4nxLu3,Breakdown,3.0,2005-09-12,single,3GBPw9NK25X1Wt2OUvOwY3,23
+00OA5YSK62B4vQnnJCXZrl,Breakdown,2.0,2005-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,4
+40v2pysbu1XsWOpwCyhhpp,Good People,3.0,2005-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,10
+7awawZPDXZOUKIN814tSWf,In Between Dreams,1.0,2005-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,2
+6VYDOztyaK6OeaLAFPuH9r,Live From The Kokua Festival itunes exclusive,1.0,2005-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,12
+0jjvaD993rgEITVcHN6aqc,Sessions@AOL,4.0,2005-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,21
+2Rsnwa1yRhsktBsy3WZDi4,"Sitting, Waiting, Wishing",2.0,2004-01-01,single,3GBPw9NK25X1Wt2OUvOwY3,32
+1a15dDOiwz5ebSxk1ZeFB5,All The Light Above It Too,10.0,2017-09-08,album,3GBPw9NK25X1Wt2OUvOwY3,65
+3z0ah0DTRYEZDbi5MWmBnX,From Here To Now To You,13.0,2013-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,36
+3da6Ihr5l6xjOCDs5sTXIu,From Here To Now To You,12.0,2013-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,65
+61427AKV7p3p30uvrniI4L,From Here To Now To You,12.0,2013-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,58
+00Me6BWP9P7j6m8x5cbcpV,From Here To Now To You (Commentary Version),12.0,2013-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,40
+797PJRUOp9NICoGRKjpAnx,Brushfire Fairytales [Remastered (Bonus Version)],15.0,2011-04-12,album,3GBPw9NK25X1Wt2OUvOwY3,59
+0N9g1klLNTWcRharbEVsPB,To The Sea,14.0,2010-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,40
+0IsTL8lnrHuNvpMPawAFRs,To The Sea,13.0,2010-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,62
+2WhNmY6H4EREyAV5J5vgsv,To The Sea (Japan Version),14.0,2010-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,34
+3mQJ5u7qqfIZK4KfyJxLOd,To The Sea (Telus Exclusive),14.0,2010-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,19
+4ixba2RP3g7Mq41VVk83Rx,En Concert,19.0,2009-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,46
+5sepHXGobkchZMKuYa7s5O,Sleep Through The Static: Remixed,7.0,2008-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,29
+3fa8r86AofGDNs1S2d3xgz,Sleep Through The Static,14.0,2008,album,3GBPw9NK25X1Wt2OUvOwY3,64
+7pdetUmzDu3AG8SFzR5Ar5,Sleep Through The Static,15.0,2007-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,33
+7t7NcQkBgeFVIWkyTlPr7T,Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George,14.0,2006-02-07,album,3GBPw9NK25X1Wt2OUvOwY3,51
+3Jl7i9Vo0Ht4co9SqTFjQy,Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George,13.0,2006,album,3GBPw9NK25X1Wt2OUvOwY3,60
+0kYv61g7n6ZPe2TVaIBeeJ,Sing-A-Longs & Lullabies For The Film Curious George,14.0,2006,album,3GBPw9NK25X1Wt2OUvOwY3,30
+2B9q4KPjOEYu885Keo9dfX,In Between Dreams,15.0,2005-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,74
+3pFq2xOJX2Cm93vuVrBO0z,In Between Dreams,15.0,2005-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,42
+7tTc46dNdE6GGuiQsssWxo,In Between Dreams,14.0,2005-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,71
+3Tt1mdezAOx4vjcOovItbV,On and On,17.0,2003-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,32
+7LQhG0xSDjFiKJnziyB3Zj,On And On,16.0,2003-01-01,album,3GBPw9NK25X1Wt2OUvOwY3,63
+38kXZAqIY0MQgu0nDAwW1j,Brushfire Fairytales,13.0,2001-02-01,album,3GBPw9NK25X1Wt2OUvOwY3,43
+2K9N8V0ORKpkpTOxhcFnud,Brushfire Fairytales (Remastered),15.0,2001-02-01,album,3GBPw9NK25X1Wt2OUvOwY3,56
+6tBi2jfr3vkr3qLQAxZ1Tr,Brushfire Fairytales (UK edition with 2 bonus tracks),15.0,2001-02-01,album,3GBPw9NK25X1Wt2OUvOwY3,45
+2zYmSJZxBTCvDYBAEcixyV,Inside Friend (feat. John Mayer),1.0,2020-04-10,single,0hEurMDQu99nJRq8pTxO14,61
+5KvmuOTWNRFPAQdz0KRPcf,Carry Me Away,1.0,2019-09-06,single,0hEurMDQu99nJRq8pTxO14,63
+35Kv9CZURVdrejZ5jsL8Xn,I Guess I Just Feel Like,1.0,2019-02-22,single,0hEurMDQu99nJRq8pTxO14,63
+2KW0btTto2vHPpnGdWZTaI,New Light (Zookëper Remix),1.0,2018-08-10,single,0hEurMDQu99nJRq8pTxO14,41
+6AvyYJ6uOBNGvpQrJCHbV1,New Light,1.0,2018-06-29,single,0hEurMDQu99nJRq8pTxO14,17
+5fEgDYFPUcvQy21TYoLEZ0,New Light,1.0,2018-05-10,single,0hEurMDQu99nJRq8pTxO14,70
+0i6oIJ53snlnCd7f2J5dJy,The Search for Everything - Wave Two,4.0,2017-02-24,single,0hEurMDQu99nJRq8pTxO14,44
+5GkyQHN2jO9L05VV0gBnGH,The Search for Everything - Wave One,4.0,2017-01-20,single,0hEurMDQu99nJRq8pTxO14,45
+5uBT48jKnO59Oylf08pJJA,Love on the Weekend,1.0,2016-11-17,single,0hEurMDQu99nJRq8pTxO14,55
+305TANxsPTFkiqS4cEilx1,XO,1.0,2014-05-27,single,0hEurMDQu99nJRq8pTxO14,62
+7itsnGWJ6GLoTuU6U90uvV,Shadow Days,1.0,2012-03-06,single,0hEurMDQu99nJRq8pTxO14,3
+6DcQ0gH9Hxp42PvNBoo5gX,The Village Sessions,6.0,2006-12-12,single,0hEurMDQu99nJRq8pTxO14,50
+1BCSXIQn5NuqM19MjZuOQY,Say,1.0,2006-10-13,single,0hEurMDQu99nJRq8pTxO14,51
+1kf0hXvUKd4qkKGrWBws7q,Daughters,3.0,2004-12-07,single,0hEurMDQu99nJRq8pTxO14,35
+17PEr75OpNpwetfh9n0TYM,No Such Thing,4.0,2002-06-07,single,0hEurMDQu99nJRq8pTxO14,1
+4y0ApnEyNmjPlrnhovDrAb,Bigger Than My Body,2.0,2001,single,0hEurMDQu99nJRq8pTxO14,11
+0jZFu2tihRJ65iYAo0oOtP,The Search for Everything,12.0,2017-04-14,album,0hEurMDQu99nJRq8pTxO14,71
+712VoD72K500yLhhgqCyVe,Paradise Valley,11.0,2013-08-20,album,0hEurMDQu99nJRq8pTxO14,66
+6S0BIiWtnqU0PtumXMpin0,Born and Raised,12.0,2012-05-18,album,0hEurMDQu99nJRq8pTxO14,63
+1V5vQRMWTNGmqwxY8jMVou,Battle Studies,11.0,2009-11-13,album,0hEurMDQu99nJRq8pTxO14,67
+4Dgxy95K9BWkDUvQPTaYBb,Where the Light Is: John Mayer Live In Los Angeles,22.0,2008,album,0hEurMDQu99nJRq8pTxO14,69
+1Xsprdt1q9rOzTic7b9zYM,Continuum,12.0,2006-09-11,album,0hEurMDQu99nJRq8pTxO14,75
+1QRIX6BuSGegYwiAZOv4R5,As/Is,15.0,2004-10-19,album,0hEurMDQu99nJRq8pTxO14,41
+0u3x6X6FRE23fJEhPJoo6Q,"As/Is: Cleveland/Cincinnati, OH - 8/03-8/04/04",10.0,2004-09-28,album,0hEurMDQu99nJRq8pTxO14,35
+4rBHg7R3tDXJirsOrp4vG4,"As/Is: Houston, TX - 7/24/04",10.0,2004-09-21,album,0hEurMDQu99nJRq8pTxO14,1
+1hC2L9ZBeCSUsh6w3xzqN7,"As/Is: Philadelphia, PA/Hartford, CT - 8/14-8/15/04",10.0,2004-08-31,album,0hEurMDQu99nJRq8pTxO14,33
+5gsTckUr9I4z7uFHMheffb,"As/Is: Houston, TX - 7/24/04",10.0,2004-08-17,album,0hEurMDQu99nJRq8pTxO14,31
+4ZxNekqkeVlCYcNdD0mnD7,"As/Is: Mountain View, CA - 7/16/04",10.0,2004-08-10,album,0hEurMDQu99nJRq8pTxO14,32
+6WivmTXugLZLmAWnZhlz7g,Heavier Things,10.0,2003-09-09,album,0hEurMDQu99nJRq8pTxO14,64
+63dnCQnCOfPpLQU1aZvKE7,Any Given Thursday,15.0,2003-02-18,album,0hEurMDQu99nJRq8pTxO14,2
+31Q7DQ751hbCO98r1ODhGt,Any Given Thursday,15.0,2003-01-30,album,0hEurMDQu99nJRq8pTxO14,44
+3yHOaiXecTJVUdn7mApZ48,Room For Squares,13.0,2001-08-16,album,0hEurMDQu99nJRq8pTxO14,71
+5KMP6XLSrhsswEuN2A9VO2,Inside Wants Out,8.0,1999-09-24,album,0hEurMDQu99nJRq8pTxO14,53
+3vj4CZBV73qyxuOaJM8QG9,Honeybee (Piano Version),2.0,2020-04-10,single,0n94vC3S9c3mb2HyNAOcjg,45
+0iXucqK60aDt0xxI79YZiD,Honeybee (Live Acoustic),2.0,2019-12-06,single,0n94vC3S9c3mb2HyNAOcjg,34
+1fWvu6l54on5kRfgaAkedM,I Found Out,1.0,2019-05-13,single,0n94vC3S9c3mb2HyNAOcjg,21
+344VAXCsawRmlsrHtcc4pQ,People Need A Melody,1.0,2019-05-03,single,0n94vC3S9c3mb2HyNAOcjg,46
+7xd1ouQwXMKqntXUduWFP4,Honeybee,1.0,2019-04-05,single,0n94vC3S9c3mb2HyNAOcjg,22
+0loOZXQoeYJ1IF7sjMCv56,Missed Connection,1.0,2019-03-14,single,0n94vC3S9c3mb2HyNAOcjg,35
+41tuX6tPuCwAbFhQCGR720,Don't Dream It's Over,1.0,2017-06-12,single,0n94vC3S9c3mb2HyNAOcjg,52
+4OUg8wmqAxUfSN05i4um9Y,Spotify Singles,2.0,2016-12-14,single,0n94vC3S9c3mb2HyNAOcjg,44
+2NEs5bVvRsZdlFkF3XSad6,Spotify Session,6.0,2014-05-27,single,0n94vC3S9c3mb2HyNAOcjg,32
+6EdIRW9aibRlbaV6ZOppNr,Spotify Sessions,6.0,2014-05-27,single,0n94vC3S9c3mb2HyNAOcjg,19
+7E5EsKr2uOyPRvw4nw2mvW,Another Story,2.0,2014-03-10,single,0n94vC3S9c3mb2HyNAOcjg,8
+4sqHRbpZAYZrfsglRPaAfM,Lost in My Mind,2.0,2011-01-31,single,0n94vC3S9c3mb2HyNAOcjg,2
+27LNgTSAGxE2fitrsCukmT,Living Mirage,11.0,2019-05-17,album,0n94vC3S9c3mb2HyNAOcjg,67
+4v48ZVHiC4bhrxSFTTbU7Z,Stinson Beach Sessions,8.0,2017-04-22,album,0n94vC3S9c3mb2HyNAOcjg,41
+0EFitK3T7hqin7iGMbpltM,Signs of Light,13.0,2016-09-09,album,0n94vC3S9c3mb2HyNAOcjg,61
+0e87bN6benf8fhvqtcly35,Let's Be Still,13.0,2013-10-15,album,0n94vC3S9c3mb2HyNAOcjg,50
+1SUZhiJWtX4NKS0KChC0vf,Let's Be Still,13.0,2013-10-15,album,0n94vC3S9c3mb2HyNAOcjg,59
+2NQkuJ8jEuusrkKkWkVQCo,The Head and the Heart (Deluxe Edition),13.0,2011-08-01,album,0n94vC3S9c3mb2HyNAOcjg,2
+3d7xzl9F5kB5quLHUVI20I,The Head and the Heart,10.0,2011-04-18,album,0n94vC3S9c3mb2HyNAOcjg,3
+4sRUr5XaJYlc17t4jUrqYB,The Head and the Heart,10.0,2011-01-11,album,0n94vC3S9c3mb2HyNAOcjg,65
+490NgrGvR5PX8hWK6bUNsy,The Head And The Heart,10.0,2010,album,0n94vC3S9c3mb2HyNAOcjg,55
+1gq1Q9wDoI8xqBG0x0HxSu,The Head and the Heart (Deluxe Edition),13.0,2010,album,0n94vC3S9c3mb2HyNAOcjg,23
+5BAukn6AWk5tubfqjtN8gd,Texas Sun,4.0,2020-02-07,single,2mVVjNmdjXZZDvhgQWiakk,60
+76HLskcIOsNyVTdNV6k7aJ,C-Side,2.0,2020-01-14,single,2mVVjNmdjXZZDvhgQWiakk,52
+3woYZI2bFXEh5nR8KfltJ1,Texas Sun,1.0,2019-12-03,single,2mVVjNmdjXZZDvhgQWiakk,62
+6zBBxLIHn9cIn6nSLA10B6,Mary Always,1.0,2019-06-12,single,2mVVjNmdjXZZDvhgQWiakk,20
+6QUYb9bb2XTcoM4O5qKRGR,Mary Always,1.0,2019-06-12,single,2mVVjNmdjXZZDvhgQWiakk,20
+0OZ5baLiodw7bWaafAjLNC,Christmas Time Is Here b/w Christmas Time Is Here (Version Mary),2.0,2018-11-16,single,2mVVjNmdjXZZDvhgQWiakk,27
+2ajzmevYDNE47Yy9l0qtQU,Christmas Time Is Here,1.0,2018-10-23,single,2mVVjNmdjXZZDvhgQWiakk,24
+0SsFgST749MQC6oN9PLHLf,Spotify Singles,2.0,2018-06-06,single,2mVVjNmdjXZZDvhgQWiakk,46
+31MXuVpf2Ebm8pZHgR8VKQ,Friday Morning,2.0,2018-01-13,single,2mVVjNmdjXZZDvhgQWiakk,30
+6cZwtjs5mqLDPi239S2rMR,Friday Morning,2.0,2018-01-12,single,2mVVjNmdjXZZDvhgQWiakk,27
+5eHtrrcmgVnAPfOY7cE6K0,Maria También,1.0,2017-11-02,single,2mVVjNmdjXZZDvhgQWiakk,18
+7LRfrmhkp301VsTrYiiXuu,Maria También,1.0,2017-10-31,single,2mVVjNmdjXZZDvhgQWiakk,28
+2RW4rSSY2ifjnkdC8ESIco,White Gloves,1.0,2015-09-04,single,2mVVjNmdjXZZDvhgQWiakk,18
+5hEpJAnE6SPm4CDnjGt3OL,The Infamous Bill,4.0,2014-10-13,single,2mVVjNmdjXZZDvhgQWiakk,49
+7At6mG0vv1DWLVuRrRr3S0,A Calf Born in Winter,2.0,2014-05-26,single,2mVVjNmdjXZZDvhgQWiakk,49
+4b7iBQ6FtAoFDJTWGGnCRK,Hasta El Cielo,12.0,2019-07-12,album,2mVVjNmdjXZZDvhgQWiakk,49
+2T06RHWicMtCA5UdHXrg4K,Hasta El Cielo (Con Todo El Mundo In Dub),12.0,2019-07-12,album,2mVVjNmdjXZZDvhgQWiakk,49
+0dyOEzcIJFeQEkq6nRB9j7,全てが君に微笑む,10.0,2019-07-12,album,2mVVjNmdjXZZDvhgQWiakk,17
+2jkTb62f8NGNLmiEWKPeD2,Con Todo El Mundo,10.0,2018-01-26,album,2mVVjNmdjXZZDvhgQWiakk,27
+42j41uUwuHZT3bnedq2XtM,Con Todo El Mundo,10.0,2018-01-26,album,2mVVjNmdjXZZDvhgQWiakk,59
+09AkhNYWocEZWbeYl1YBf7,Con Todo El Mundo,10.0,2018-01-26,album,2mVVjNmdjXZZDvhgQWiakk,60
+1E2bKZBFR7hTl0hg8nUkdr,The Universe Smiles Upon You,10.0,2015-11-06,album,2mVVjNmdjXZZDvhgQWiakk,27
+2OPcQNLP8DQVumD8kBRAH3,The Universe Smiles Upon You,10.0,2015-11-06,album,2mVVjNmdjXZZDvhgQWiakk,66
+3vwhtBspoJYUhNjQs47ztR,Face to Face,1.0,2019-10-23,single,7pbDxGE6nQSZVfiFdq9lOL,44
+3n4DlItnFse4pNj8jddEXf,Pluto Projector,1.0,2019-10-17,single,7pbDxGE6nQSZVfiFdq9lOL,49
+1dIQCUmv1flCLWByivrbxQ,10/10,1.0,2019-09-12,single,7pbDxGE6nQSZVfiFdq9lOL,54
+5Upjd2sQh4iJnWyJgi3TsA,New House,1.0,2019-02-14,single,7pbDxGE6nQSZVfiFdq9lOL,57
+5Cxb1CkdXhBzpPP1w9PF2X,New House,1.0,2019-02-14,single,7pbDxGE6nQSZVfiFdq9lOL,14
+2zCvRv41iZ52TYSy1OHnDl,You've Got a Friend in Me,1.0,2018-05-31,single,7pbDxGE6nQSZVfiFdq9lOL,49
+4D6BtgzCwuJx9omikqA8Rg,Loving Is Easy,1.0,2017-10-11,single,7pbDxGE6nQSZVfiFdq9lOL,70
+6Do68lYD1UfOmeBYtsxF18,Edition,1.0,2017-09-12,single,7pbDxGE6nQSZVfiFdq9lOL,57
+6QN8oDUg0dJ8pguyXEO1ZE,Untitled,1.0,2017-04-19,single,7pbDxGE6nQSZVfiFdq9lOL,39
+1FhmTMNe8AziAPkB29114F,Sunflower,1.0,2017-03-22,single,7pbDxGE6nQSZVfiFdq9lOL,70
+51pSyGziPFv8ajzF7ilUAr,Best Friend,1.0,2017-01-25,single,7pbDxGE6nQSZVfiFdq9lOL,71
+10KjUArbSYS7VCcTNbnVxS,Uno,1.0,2016-11-17,single,7pbDxGE6nQSZVfiFdq9lOL,55
+5CNckxfLf4TCoMOoxgAU8l,Pony,10.0,2019-10-25,album,7pbDxGE6nQSZVfiFdq9lOL,73
+2NBVxjZcbH5H1N1Ab2ExDH,Apricot Princess,10.0,2017-04-26,album,7pbDxGE6nQSZVfiFdq9lOL,71
+32wYrmt3fg2c8maA80Ioc2,Bcos U Will Never B Free,10.0,2016-11-07,album,7pbDxGE6nQSZVfiFdq9lOL,70
+6GAOLXEbg4J8BhY1l6FwC4,sunset strip,1.0,2020-02-28,single,1fA8WmzG2eU2q13kAAjoN8,38
+3eDVErNq4ndfTbqmdIdSaD,Happy New Year (Takis Remix),1.0,2019-12-18,single,1fA8WmzG2eU2q13kAAjoN8,38
+0MNPF6dmnLWxPypu6wVJH5,DALE,1.0,2019-09-26,single,1fA8WmzG2eU2q13kAAjoN8,43
+1nAlWYaan9APun2GhGtKrT,Freak On Me (feat. Icona Pop),1.0,2019-08-02,single,1fA8WmzG2eU2q13kAAjoN8,29
+326psP32W30JecUiuuQNjn,cocaine cowboy,1.0,2019-04-26,single,1fA8WmzG2eU2q13kAAjoN8,30
+4jtp3iWaP6STnG9AmhOEZi,Reverse Cowgirl,1.0,2018-12-28,single,1fA8WmzG2eU2q13kAAjoN8,12
+37NNM6qLR3smpLIJZz1vny,1977,1.0,2018-11-30,single,1fA8WmzG2eU2q13kAAjoN8,24
+5ESsMrqbpVnksVH6lP434b,OMG,1.0,2018-11-15,single,1fA8WmzG2eU2q13kAAjoN8,30
+6KRuDKhT9wAqAZ1k7NzUWT,BAD,1.0,2018-11-01,single,1fA8WmzG2eU2q13kAAjoN8,26
+3QgFzksD4J43TnGIJOOrRV,The Difference,1.0,2020-03-11,single,6nxWCVXbOlEVRexSbLsTer,66
+2gF8vemxCNFFMK8CJZ9pP3,Rushing Back (Alternate Versions),5.0,2019-12-13,single,6nxWCVXbOlEVRexSbLsTer,44
+3TaKGL2a2HRrjMIS8Z0Io3,Rushing Back (MJ Cole Remix),1.0,2019-11-15,single,6nxWCVXbOlEVRexSbLsTer,33
+3kiNeQg790Wcg7QlUqdgj8,Rushing Back (Petit Biscuit Remix),1.0,2019-10-23,single,6nxWCVXbOlEVRexSbLsTer,53
+4d2YOjyPDopVhOkksaALJj,Rushing Back,1.0,2019-09-25,single,6nxWCVXbOlEVRexSbLsTer,65
+1XBX4A7VQl4ryuamIqnpgn,Let You Know (Robin Hannibal Rework),1.0,2019-09-13,single,6nxWCVXbOlEVRexSbLsTer,41
+7y3BNyJwbGO7jdShFpChQ9,Let You Know (Nathan C Remix),1.0,2019-08-30,single,6nxWCVXbOlEVRexSbLsTer,38
+6dp5XQ5PKCHupK8EsXjMcD,Let You Know (Ross from Friends Remix),1.0,2019-08-23,single,6nxWCVXbOlEVRexSbLsTer,33
+1O60vXLCoOznFweoATKZR8,Quits,3.0,2019-07-31,single,6nxWCVXbOlEVRexSbLsTer,54
+0JWZvxiJLvRQwqKL2IhcD0,Let You Know,1.0,2019-06-12,single,6nxWCVXbOlEVRexSbLsTer,57
+5WfM4Cm6YmThxnPQOjMsIz,Friends,1.0,2019-03-27,single,6nxWCVXbOlEVRexSbLsTer,56
+1FLrsF9bDYIgYY6ewTrvRT,Hyperreal,1.0,2017-05-05,single,6nxWCVXbOlEVRexSbLsTer,41
+6VrXK0bcAMZNbWaUwIQjYG,Hyperreal,1.0,2017-05-05,single,6nxWCVXbOlEVRexSbLsTer,40
+0XzHfgLEQ5IODfpGhD78Sp,Hyperreal,1.0,2017-05-05,single,6nxWCVXbOlEVRexSbLsTer,44
+537bCyj2TPs1DJOJnFTwZr,Skin Companion EP II,4.0,2017-02-17,single,6nxWCVXbOlEVRexSbLsTer,39
+1e97vaQCuuZH9515xaj2cd,Skin Companion EP II,4.0,2017-02-17,single,6nxWCVXbOlEVRexSbLsTer,44
+2NUSMc4rQ9jjUFE3PnhKBO,Skin Companion EP II,4.0,2017-02-17,single,6nxWCVXbOlEVRexSbLsTer,39
+2I2RZ34NQn6QnBP8tBjolC,Say It (Illenium Remix),1.0,2017-01-13,single,6nxWCVXbOlEVRexSbLsTer,10
+3Tgn7LcTsR9nM0IapZC8pM,Say It (Illenium Remix),1.0,2017-01-13,single,6nxWCVXbOlEVRexSbLsTer,13
+2sHGpBiyWeVw8VDBAvaX5X,Say It (feat. Tove Lo) [Illenium Remix],1.0,2017-01-13,single,6nxWCVXbOlEVRexSbLsTer,26
+1i2TYhut2Dbj45TwTHBRW8,My Boo,1.0,2016-12-16,single,6nxWCVXbOlEVRexSbLsTer,38
+24w7MWobHrfHggTrbw8jYD,My Boo (Triple J Like a Version),1.0,2016-12-16,single,6nxWCVXbOlEVRexSbLsTer,33
+7wHKtsDZDqB8lowJGe4vgp,"My Boo (feat. Vince Staples, Kučka, Ngaiire, Vera Blue) [Triple J Like A Version]",1.0,2016-12-16,single,6nxWCVXbOlEVRexSbLsTer,39
+6Tto9pCgT6zC8gNktupelD,Skin Companion EP I,4.0,2016-11-25,single,6nxWCVXbOlEVRexSbLsTer,41
+72YYml22WMaAeYhiWX2f0n,Skin Companion EP I,4.0,2016-11-25,single,6nxWCVXbOlEVRexSbLsTer,38
+6I0yWpswuJBFg54YJbdHo9,Skin Companion EP I,4.0,2016-11-25,single,6nxWCVXbOlEVRexSbLsTer,37
+5WPE0c5STIaPTLHt8W7lTG,Say It (Remixes),5.0,2016-11-04,single,6nxWCVXbOlEVRexSbLsTer,20
+5m9fDPZCm58HqJV2WIN6Rq,Say It (Remixes),5.0,2016-11-04,single,6nxWCVXbOlEVRexSbLsTer,12
+4R9EFH7hNsbqb72nTH03fv,Say It Feat. Tove Lo (Remixes),5.0,2016-11-04,single,6nxWCVXbOlEVRexSbLsTer,35
+5ndyt6BTl4AUvWZcB9RIL7,Say It (feat. Tove Lo) [Clean Bandit Remix],1.0,2016-10-21,single,6nxWCVXbOlEVRexSbLsTer,10
+7oGP5jNEe8NB27eAibedx2,Say It (Clean Bandit Remix),1.0,2016-10-19,single,6nxWCVXbOlEVRexSbLsTer,4
+6SpMfyLwixqP4lG13cYvLi,Never Be Like You (Martin Solveig Remix),1.0,2016-08-12,single,6nxWCVXbOlEVRexSbLsTer,3
+603GdeqYWAz5miyGU3OyMU,Never Be Like You (feat. Kai) [Martin Solveig Remix],1.0,2016-08-12,single,6nxWCVXbOlEVRexSbLsTer,6
+7bWnJ3gC4PredxzX4cSvE6,Never Be Like You (Martin Solveig Remix),1.0,2016-08-12,single,6nxWCVXbOlEVRexSbLsTer,4
+66oEbwkkeDLz8YH9PwDzyb,Say It,2.0,2016-04-21,single,6nxWCVXbOlEVRexSbLsTer,11
+6xNc1eayrC0hSoO1aVMUun,Say It,2.0,2016-04-21,single,6nxWCVXbOlEVRexSbLsTer,24
+6X35yl6P8sUJswnKEtOCcD,Say It,2.0,2016-04-21,single,6nxWCVXbOlEVRexSbLsTer,10
+3BslqnfoYYM0dNYgGrlKXi,Say It,2.0,2016-04-21,single,6nxWCVXbOlEVRexSbLsTer,1
+6LWZUjcdSSbfn4QDuZ7rlC,Never Be Like You (Remixes),4.0,2016-03-25,single,6nxWCVXbOlEVRexSbLsTer,9
+0VUmOXzJDx2QF7Af0Qurd7,Never Be Like You (Remixes),4.0,2016-03-25,single,6nxWCVXbOlEVRexSbLsTer,15
+4YnZbUtBK4xEkh9ib1venx,Never Be Like You (Remixes) [ft. Kai],4.0,2016-03-25,single,6nxWCVXbOlEVRexSbLsTer,22
+2zddBkoDgJQWaLvwapwFDe,Never Be Like You (Disclosure Remix),1.0,2016-03-04,single,6nxWCVXbOlEVRexSbLsTer,3
+5J3BLbNa5vaSJGa0R1vu23,Never Be Like You [Disclosure Remix],1.0,2016-03-04,single,6nxWCVXbOlEVRexSbLsTer,5
+4hOz61gXqf2tRrBD7nORYU,Never Be Like You (Disclosure Remix) [feat. Kai],1.0,2016-03-04,single,6nxWCVXbOlEVRexSbLsTer,14
+4upe35RrCCjcUTtjSh2gy5,Never Be Like You (Disclosure Remix),1.0,2016-03-03,single,6nxWCVXbOlEVRexSbLsTer,3
+0m9qXUFXDiu5xIL84C6hIH,Smoke & Retribution,1.0,2016-01-29,single,6nxWCVXbOlEVRexSbLsTer,9
+4f9XFj1HjgVJZeOGQYI1jJ,Smoke & Retribution (feat. Vince Staples & Kučka),1.0,2016-01-29,single,6nxWCVXbOlEVRexSbLsTer,17
+7C8RemcfigjV1itpGdsmzM,Smoke & Retribution,1.0,2016-01-26,single,6nxWCVXbOlEVRexSbLsTer,12
+2CozmzNuftjJ63VnwcHXw4,Never Be Like You,1.0,2016-01-16,single,6nxWCVXbOlEVRexSbLsTer,11
+4LIvLGYH1ZGsydvRZOu2Jn,Never Be Like You,1.0,2016-01-16,single,6nxWCVXbOlEVRexSbLsTer,10
+2yRTNmJZIuhGgmeE43bDQC,Never Be Like You (feat. Kai),1.0,2016-01-16,single,6nxWCVXbOlEVRexSbLsTer,22
+1zbR9wF75V1TmLwduhUTg6,Never Be Like You,1.0,2016-01-16,single,6nxWCVXbOlEVRexSbLsTer,6
+0HbbWsuC5YOU927PIhyBnA,Never Be Like You (feat. Kai),1.0,2016-01-16,single,6nxWCVXbOlEVRexSbLsTer,3
+186QgVrzAjUEsPx2mD4XMm,Turning (Flume Remix),1.0,2015-07-02,single,6nxWCVXbOlEVRexSbLsTer,36
+2fvEjqeSepUFLyYxOILp2F,Some Minds,1.0,2015-05-29,single,6nxWCVXbOlEVRexSbLsTer,44
+3kv9cfpmyx5pJL2RuBW1ke,Some Minds,1.0,2015-05-29,single,6nxWCVXbOlEVRexSbLsTer,5
+63SwZU3t9Bqb45SVWoPprT,Some Minds (feat. Andrew Wyatt),1.0,2015-05-29,single,6nxWCVXbOlEVRexSbLsTer,40
+2gwkcvo9U65dK4FBqtkDqh,HyperParadise (Flume Remix [Ganz Flip]),1.0,2014-07-10,single,6nxWCVXbOlEVRexSbLsTer,2
+4wngUMjPQwiOngxqKPuh5p,Lockjaw,3.0,2013-11-22,single,6nxWCVXbOlEVRexSbLsTer,61
+5hAD4LXxxdchtucBuXa8Gp,Drop the Game,1.0,2013-01-23,single,6nxWCVXbOlEVRexSbLsTer,23
+5XHvSgcyEK3a99SwDyvppN,Drop the Game - EP,3.0,2013-01-23,single,6nxWCVXbOlEVRexSbLsTer,39
+6WOef5aZlHawN6OfRbpeAR,Sleepless (Remixes),3.0,2012-09-24,single,6nxWCVXbOlEVRexSbLsTer,12
+4TvuXrfFiGnBOcNcwVhr7t,Anna Lunoe & Friends,4.0,2012-07-09,single,6nxWCVXbOlEVRexSbLsTer,40
+2Vx9FC6Um8i6kEtY7HNswB,Hi This Is Flume (Mixtape),17.0,2019-03-20,album,6nxWCVXbOlEVRexSbLsTer,62
+0zHb7F613s95pFWQhgXQ9w,Skin: The Remixes,15.0,2017-04-07,album,6nxWCVXbOlEVRexSbLsTer,48
+0dXzrOfFmSXgqqnSA9r3dN,Skin: The Remixes,15.0,2017-04-07,album,6nxWCVXbOlEVRexSbLsTer,53
+0tstTxkR8uow4hBYgEgOAp,Skin: The Remixes,15.0,2017-04-07,album,6nxWCVXbOlEVRexSbLsTer,47
+4NZWRpoMuXaHU7csTjWdB5,Skin,16.0,2016-05-27,album,6nxWCVXbOlEVRexSbLsTer,63
+1sxqYNzozsrgu0Vh6jQ6Lr,Skin,16.0,2016-05-27,album,6nxWCVXbOlEVRexSbLsTer,60
+6pFOh9PfVU4NUycoWYkEl2,Skin,16.0,2016-05-27,album,6nxWCVXbOlEVRexSbLsTer,61
+7sqDTErkdvj5PXtO3qkzJJ,Flume (Deluxe Edition),34.0,2013-11-11,album,6nxWCVXbOlEVRexSbLsTer,43
+3qlsaBEeDiCqv15PWB7UjI,Flume (Deluxe Edition),33.0,2013-11-11,album,6nxWCVXbOlEVRexSbLsTer,7
+1dhQSxmp5SM5bLyssnqyk4,Flume (Deluxe Edition),34.0,2013-11-08,album,6nxWCVXbOlEVRexSbLsTer,43
+21m7s6qWpksbj6l08OM7Pu,Flume,15.0,2012-11-12,album,6nxWCVXbOlEVRexSbLsTer,54
+1Ya2L1SaukipRj53e0dIYc,Flume,15.0,2012-11-12,album,6nxWCVXbOlEVRexSbLsTer,31
+1yc3Ldus5BkJBVX9mSFMt4,Flume: Deluxe Edition,33.0,2012-11-09,album,6nxWCVXbOlEVRexSbLsTer,59
+54dY3hrGWMOSPpUGZZJbFR,Flume,15.0,2012-11-09,album,6nxWCVXbOlEVRexSbLsTer,45
+3d6ydK5AhL3xgq2LIzp6yd,Flume,15.0,2012-11-09,album,6nxWCVXbOlEVRexSbLsTer,59
+2PMPiUXeES9T2ujeUHzrpw,Every Color (Remixes),4.0,2020-04-15,single,7wg1qvie3KqDNQbAkTdbX0,0
+6TtycqPPwkFce4Hx7opOAJ,Little Things (with Quinn XCII & Chelsea Cutler),1.0,2020-04-03,single,7wg1qvie3KqDNQbAkTdbX0,61
+4AN7UWH04E737wsJZHfhjP,Little Things (with Quinn XCII & Chelsea Cutler),1.0,2020-04-03,single,7wg1qvie3KqDNQbAkTdbX0,51
+5w22XGr5Z2yOHy4UdLrmqt,Every Color (with Foster The People),1.0,2020-03-04,single,7wg1qvie3KqDNQbAkTdbX0,58
+7h26nttvLiSB7a3oojF36V,Don't Mind,1.0,2020-01-31,single,7wg1qvie3KqDNQbAkTdbX0,53
+4xwmzc2g4a5yv7yRxCQ91V,Here Comes A Feeling (with Naomi Wild & Couros),1.0,2019-12-13,single,7wg1qvie3KqDNQbAkTdbX0,42
+4vPi417GIyreDLamFQVZJd,Free (with Drew Love),1.0,2019-11-06,single,7wg1qvie3KqDNQbAkTdbX0,59
+3xte1n53BcjUBxr8BBHdHq,Hurts (feat. Louis The Child & Whethan),1.0,2019-09-05,single,7wg1qvie3KqDNQbAkTdbX0,47
+1rWqOpBKbCoxUvirPmBKXg,Too Close (with Wrabel),1.0,2019-08-09,single,7wg1qvie3KqDNQbAkTdbX0,46
+6JQL2t9IAlKOShcOf147wn,Big Time (X Games Theme),1.0,2019-07-26,single,7wg1qvie3KqDNQbAkTdbX0,45
+16h6wTeHx3O3puzLu7Rvzf,I Dreamt We Spoke Again (Louis The Child Remix),1.0,2019-05-22,single,7wg1qvie3KqDNQbAkTdbX0,47
+4vT4X56azMSUuvAuIbL6Nw,Kids At Play - EP (Remixes),11.0,2019-03-15,single,7wg1qvie3KqDNQbAkTdbX0,41
+21R2CiMVZH2MY514Sq2DIG,Kids At Play- EP,9.0,2018-10-26,single,7wg1qvie3KqDNQbAkTdbX0,67
+5HAwYvpJxq5J9US034C5gl,Better Not (Acoustic),1.0,2018-08-03,single,7wg1qvie3KqDNQbAkTdbX0,37
+638FpXZjBTO9b7haAlhtU2,Better Not (Remixes),9.0,2018-06-08,single,7wg1qvie3KqDNQbAkTdbX0,41
+5umCH0AoNKwl7R4TtEK8Zt,Shake Something (feat. Joey Purp),1.0,2018-03-08,single,7wg1qvie3KqDNQbAkTdbX0,51
+0hvr8IdynQ1X1LHo3ahfii,Last To Leave (feat. Caroline Ailin),1.0,2017-12-08,single,7wg1qvie3KqDNQbAkTdbX0,50
+0cFTv5Is5TmpNu6PkVvlsg,Right To It (with Ashe),1.0,2017-10-02,single,7wg1qvie3KqDNQbAkTdbX0,48
+0veJ44hugjYNglYR5RociA,Love Is Alive (feat. Elohim) [Remixes],4.0,2017-09-01,single,7wg1qvie3KqDNQbAkTdbX0,35
+53MMpgzZgob6FH9qrPukWl,Love Is Alive (feat. Elohim) [Remixes],4.0,2017-09-01,single,7wg1qvie3KqDNQbAkTdbX0,3
+7vxRFIBkK21ZBSyMoK8xvX,Japan Special EP,6.0,2017-04-07,single,7wg1qvie3KqDNQbAkTdbX0,11
+14x5s1nB8kcYux35te5f1o,Love Is Alive,6.0,2017-03-24,single,7wg1qvie3KqDNQbAkTdbX0,55
+3EySTlMIX3ZDV7yEZmtCqv,World On Fire,1.0,2017-03-23,single,7wg1qvie3KqDNQbAkTdbX0,33
+3I5wfl3oMHg5ougMUuOuDU,World On Fire,1.0,2017-03-23,single,7wg1qvie3KqDNQbAkTdbX0,45
+2ozSogRt70olo7s0KlXLzi,Phone Died,1.0,2017-03-03,single,7wg1qvie3KqDNQbAkTdbX0,31
+0i7gI9SlKIZxdz2Jl2dyfp,Love Is Alive,1.0,2017-01-27,single,7wg1qvie3KqDNQbAkTdbX0,40
+5GH8Szn1e0Wb8RRriOoGGp,Love Is Alive,1.0,2017-01-27,single,7wg1qvie3KqDNQbAkTdbX0,51
+6sC4PlgvhDaQrqFdeROIga,Fire,1.0,2016-09-30,single,7wg1qvie3KqDNQbAkTdbX0,35
+6J8yOk3Yzjf9g4EfyATsk5,Fire,1.0,2016-09-30,single,7wg1qvie3KqDNQbAkTdbX0,48
+4L9wYBGd1WxSFUrwLT1gvg,Weekend (Remixes),7.0,2016-09-02,single,7wg1qvie3KqDNQbAkTdbX0,32
+0R9hEjnIeXJ7a0EbfO3TRe,Weekend Remixes,7.0,2016-09-02,single,7wg1qvie3KqDNQbAkTdbX0,14
+2SykBFe2m6T1xVjyGnB3EU,Weekend,1.0,2016-07-15,single,7wg1qvie3KqDNQbAkTdbX0,17
+0pGirWyas6rVnBnhbiYgp7,Weekend,1.0,2016-07-01,single,7wg1qvie3KqDNQbAkTdbX0,27
+04aSmz3QKJZDy9llsMz7YU,Weekend,1.0,2016-07-01,single,7wg1qvie3KqDNQbAkTdbX0,50
+0j0EQ5lvPM9c0OqqIyaIBC,Weekend (Remixes),2.0,2016-06-10,single,7wg1qvie3KqDNQbAkTdbX0,28
+0q1iCP7zlNEHcTIvovdCKj,It's Strange (feat. K.Flay) [Remixes],20.0,2016-01-15,single,7wg1qvie3KqDNQbAkTdbX0,32
+0OcJozjLfwwwzbQJwJJXtS,It's Strange (Remixes),20.0,2016-01-15,single,7wg1qvie3KqDNQbAkTdbX0,42
+7BlVERnuLpR9gQmYz2IzoY,It's Strange (Remixes),20.0,2016-01-15,single,7wg1qvie3KqDNQbAkTdbX0,22
+3YmRhKciEU36Qh6MvOxDTC,It's Strange,1.0,2015-12-08,single,7wg1qvie3KqDNQbAkTdbX0,30
+14qZ1kKG6UoQnBupQTtYRq,It's Strange (feat. K.Flay),1.0,2015-10-22,single,7wg1qvie3KqDNQbAkTdbX0,41
+65kmQuUqkUbglq0S707HXN,It's Strange,1.0,2015-10-22,single,7wg1qvie3KqDNQbAkTdbX0,52
+7tTNzby7YorAATb7MbnSGh,Weekend (Susspect Remix),1.0,2015,single,7wg1qvie3KqDNQbAkTdbX0,8
+6HLEbr4tLaBfiE8IySjWYl,Hearts (Louis The Child Remix),1.0,2014-02-18,single,7wg1qvie3KqDNQbAkTdbX0,16
+3a6or8qwEaFtPZFhEWVOTQ,Wrong Time,1.0,2020-01-24,single,4dM6NDYSfLcspt8GLoT5aE,49
+7tGsKnbjnlYSiTzb7aHbvC,Overdrive,1.0,2020-01-24,single,4dM6NDYSfLcspt8GLoT5aE,44
+3yOleyz5IZOlXDbRG072tY,Why Do You Love Me (Hippie Sabotage Remix),2.0,2019-09-18,single,4dM6NDYSfLcspt8GLoT5aE,34
+2EfibOMCoqEvr86D9dvAg8,Trust Nobody,1.0,2019-07-23,single,4dM6NDYSfLcspt8GLoT5aE,54
+077aDqaJwL8a4OA8pKVe0V,Find Me,1.0,2019-07-23,single,4dM6NDYSfLcspt8GLoT5aE,38
+09R4Ba8w5gSdyOr6h31M8N,Carpe Diem,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,24
+4U0pbefjWHLyi8gmzUsW8U,Caught Up,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,40
+1WwtSIDqAVe2GnpzVtEtlr,Enemy,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,21
+0ERPnnFfn3LXI3H1C9NuaK,Coffee,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,39
+2kUwfpzYJo2ByMJD7Zkojr,Distance,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,35
+0URoBA9pf5Byd9Aa8bTcWR,Fading into Fog,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,35
+3Oplh88NHsDDfMLbhAHQRb,Flash,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,24
+3pqoVYGXSiuYTJfnVrzLI3,Patience,1.0,2019-01-11,single,4dM6NDYSfLcspt8GLoT5aE,24
+4jRPbkVxXKJvX8DPWS5JJv,Real Things,1.0,2018-04-27,single,4dM6NDYSfLcspt8GLoT5aE,26
+0p15cinXXZeQYFPGWGx29M,Hentai,3.0,2018-03-23,single,4dM6NDYSfLcspt8GLoT5aE,37
+10R5vJyQjoQaFC6o5XB3oJ,Temptation,1.0,2018-03-09,single,4dM6NDYSfLcspt8GLoT5aE,22
+5skhJX1TSsffQPe92dy4bk,The Mist,1.0,2018-02-09,single,4dM6NDYSfLcspt8GLoT5aE,37
+56zLfjE4W8IXFlBlTkvOWs,I Found You,1.0,2018-02-09,single,4dM6NDYSfLcspt8GLoT5aE,41
+6eGJWNKdOYkBQlKz54QIfN,Fire the Blunt,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,12
+1VMwGsdHzYNjZpKqMrOrMA,Fuck It,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,38
+0xN0qOg7PD2d1t1nToSf4o,Righteous,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,41
+3xdTckJjSyCfWePM4DrTOc,Running Miles,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,53
+11wxZcV2j6SW4DYzZiyZ53,Watching,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,19
+1eHRC2xlILqmuccbZ98bOV,Holy Mind,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,40
+11t8YvJjQYvMKSkG7vxi5W,Mirror,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,40
+1jEDXLb6kBWox2h2DqH6I1,Save Me,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,20
+3iQA1JZdZwhJBPcSc49ogE,The Path,1.0,2017-12-15,single,4dM6NDYSfLcspt8GLoT5aE,18
+3ryK3lfTB9KcFC876ykgAy,Options,4.0,2016-06-24,single,4dM6NDYSfLcspt8GLoT5aE,58
+6n7Pk0uvNvOAlBBamgFzER,Able to See Me,1.0,2015-06-02,single,4dM6NDYSfLcspt8GLoT5aE,46
+7G3BLeVhYu29HHOazoQixC,Fast Car,1.0,2015-04-27,single,4dM6NDYSfLcspt8GLoT5aE,33
+7qjUz8e7jzTUPLbg17J8zc,Waiting Too Long,1.0,2014-12-09,single,4dM6NDYSfLcspt8GLoT5aE,44
+22AFyeP7jjnQbvfCyzD0tH,Broken over You,1.0,2014-09-30,single,4dM6NDYSfLcspt8GLoT5aE,11
+7wWG5OxqO5icixq1qDnVlw,Johnny Long Chord,4.0,2014-03-11,single,4dM6NDYSfLcspt8GLoT5aE,32
+2NKyVWarvc0hcCxeaPvpZc,Sunny,6.0,2014-03-11,single,4dM6NDYSfLcspt8GLoT5aE,20
+6cbYPzA3cmYlQD0JqsOjEQ,Drifter,11.0,2017-05-19,album,4dM6NDYSfLcspt8GLoT5aE,61
+1RVXVo1puacM8aQ6hgQahi,Providence,11.0,2016-02-05,album,4dM6NDYSfLcspt8GLoT5aE,73
+23EOyjnP1w0mP8LCGOAitG,Vacants (Deluxe Edition),23.0,2014-09-30,album,4dM6NDYSfLcspt8GLoT5aE,44
+2VmLk5bAd5QjLtX7cHm594,The Sunny Album (Deluxe Edition),18.0,2014-09-16,album,4dM6NDYSfLcspt8GLoT5aE,58
+5S0usnelhQktyIh38atMnF,Vacants,8.0,2014-03-11,album,4dM6NDYSfLcspt8GLoT5aE,38
+7MKTridzvKwVhek9wHKsjH,Vol. 1,16.0,2014-03-11,album,4dM6NDYSfLcspt8GLoT5aE,34
+3dJayNdYjBZFVgR5nbGgo5,Vol. 2,23.0,2014-03-11,album,4dM6NDYSfLcspt8GLoT5aE,40
+4fjhNjYSjiqetOAYrMqKls,Vol. 3,15.0,2014-03-11,album,4dM6NDYSfLcspt8GLoT5aE,27
+2hclsmUCroeaplxCYngj96,Freaks,2.0,2020-03-31,single,1VJ0briNOlXRtJUAzoUJdt,54
+0T25V1mum4sM5Ns6t36lJK,Freaks,2.0,2020-03-31,single,1VJ0briNOlXRtJUAzoUJdt,49
+5UNJ28ZhvkXmf4iVfzwppt,Freaks,2.0,2020-03-31,single,1VJ0briNOlXRtJUAzoUJdt,43
+5CvGaa7ehTBOhyxLDxRWb6,Freaks,1.0,2020-03-20,single,1VJ0briNOlXRtJUAzoUJdt,58
+6w0Xa0dgNMyD16KxeaC0c8,Freaks,1.0,2020-03-20,single,1VJ0briNOlXRtJUAzoUJdt,49
+1voOnpa4pILlDPVsrIFl8b,You Little Beauty,1.0,2019-05-10,single,1VJ0briNOlXRtJUAzoUJdt,63
+4Ay7sLXxJO8sPhOyNlmP1P,You Little Beauty,1.0,2019-05-09,single,1VJ0briNOlXRtJUAzoUJdt,51
+1mTEDq5qWNQuWdgrQLI1eg,You Little Beauty,1.0,2019-05-09,single,1VJ0briNOlXRtJUAzoUJdt,49
+7MUsABOX2zbnuEh2kYGJp7,Losing It (Radio Edit),1.0,2018-11-30,single,1VJ0briNOlXRtJUAzoUJdt,36
+2aYokx2jGun9pPjyY5Cc9t,Losing It (Radio Edit),1.0,2018-10-25,single,1VJ0briNOlXRtJUAzoUJdt,55
+1kaQClLOAmvOeoUXStuOAQ,Losing It,1.0,2018-07-13,single,1VJ0briNOlXRtJUAzoUJdt,52
+3sGhny7zoKJrmEuVblwZap,Losing It,1.0,2018-07-13,single,1VJ0briNOlXRtJUAzoUJdt,52
+143cxYCazoiNfviHRmxkdv,Losing It,1.0,2018-07-13,single,1VJ0briNOlXRtJUAzoUJdt,69
+7HMdyUE2TJOW16A3gClgAm,Losing It (Radio Edit),1.0,2018-07-13,single,1VJ0briNOlXRtJUAzoUJdt,39
+3FIOrKEgeQmKlpm96t0b4L,Crowd Control,1.0,2018-07-13,single,1VJ0briNOlXRtJUAzoUJdt,3
+5EyTrWCxrXgg0PpQzRe06x,Stop It (Original Mix),1.0,2018-04-13,single,1VJ0briNOlXRtJUAzoUJdt,30
+79ulcmh9AHGYehFkmEIYQw,Crowd Control,1.0,2018-03-07,single,1VJ0briNOlXRtJUAzoUJdt,36
+4HH1KIbSLvGVxfTisuExeT,Crowd Control,1.0,2018-03-02,single,1VJ0briNOlXRtJUAzoUJdt,49
+4tQjkSBRySYGLLIrppt2v7,Oi Oi,2.0,2017-11-10,single,1VJ0briNOlXRtJUAzoUJdt,44
+3fLyVygsOa9KL5OqdiX8Va,Oi Oi,2.0,2017-11-10,single,1VJ0briNOlXRtJUAzoUJdt,61
+3S4AdYSlrxNmmxe6CjTHmT,Ya Kidding,3.0,2017-07-07,single,1VJ0briNOlXRtJUAzoUJdt,41
+3asXE8koS98nGPVDSPKe5e,Ya Kidding,3.0,2017-06-30,single,1VJ0briNOlXRtJUAzoUJdt,58
+10TGSwSd3ahQtPRcwl59cq,Believe (Live),1.0,2019-09-20,single,1n2pb9Tsfe4SwAjmUac6YT,30
+2AKdYmMhcMuZqh3IZ3Uoiz,Never Could Toe The Mark (Live),1.0,2019-08-23,single,1n2pb9Tsfe4SwAjmUac6YT,15
+5puzQhxisgcpTgZxCHh7F2,Grass Is Always Greener,1.0,2019-03-29,single,1n2pb9Tsfe4SwAjmUac6YT,21
+7fhmg5K8w3IhqXki4tJNra,Señorita,1.0,2019-03-29,single,1n2pb9Tsfe4SwAjmUac6YT,22
+36xFFPWgnReh30UEViPoYD,That's On Me,1.0,2019-03-22,single,1n2pb9Tsfe4SwAjmUac6YT,27
+3OusOxKyeaUz5Mqt8RrM4R,Drink All Day,1.0,2019-03-15,single,1n2pb9Tsfe4SwAjmUac6YT,32
+4Wl7wTVnFFyXUAje4uTcMM,Catch A Cold One,1.0,2018-11-16,single,1n2pb9Tsfe4SwAjmUac6YT,11
+7xnWbcMZGmaJ9RGvYJMnX3,Barefoot Blue Jean Night (Live),1.0,2018-09-14,single,1n2pb9Tsfe4SwAjmUac6YT,15
+4anCzbRMoeOoXW7qgAuN9I,Down To The Honkytonk,1.0,2018-08-07,single,1n2pb9Tsfe4SwAjmUac6YT,34
+0IP1hWWp4viLp8C7HJew06,Made For You,1.0,2018-04-06,single,1n2pb9Tsfe4SwAjmUac6YT,29
+3yHOBVuWWvaOuUPF8A0twU,I Was Jack (You Were Diane),1.0,2018-02-28,single,1n2pb9Tsfe4SwAjmUac6YT,21
+0JztR8J9AtC0W7SStwV3ZS,Something To Ride To,1.0,2018-02-28,single,1n2pb9Tsfe4SwAjmUac6YT,33
+6QMGlRWaj2nZ43cyeub97z,Real Life,1.0,2015-05-26,single,1n2pb9Tsfe4SwAjmUac6YT,42
+2Lndm8Sa4h8Zj59fk6Dtjl,Endless Summer EP,4.0,2012-09-25,single,1n2pb9Tsfe4SwAjmUac6YT,40
+6DcjgwmNJdsl2BODdwPOH6,Greetings From...Jake,14.0,2019-03-29,album,1n2pb9Tsfe4SwAjmUac6YT,70
+5gsWgFeHRxRkIXGXWPiOIW,American Love,11.0,2016-07-29,album,1n2pb9Tsfe4SwAjmUac6YT,56
+0dQP8epDhkpNl1iGTxY9pu,Days of Gold (Deluxe Edition),16.0,2014-11-17,album,1n2pb9Tsfe4SwAjmUac6YT,45
+59ePhOhLFvSOFG4L5FRGzp,Days of Gold,12.0,2013-12-02,album,1n2pb9Tsfe4SwAjmUac6YT,55
+4GeJssW5iLOSLOIXhLfOUJ,Barefoot Blue Jean Night,11.0,2011-08-26,album,1n2pb9Tsfe4SwAjmUac6YT,64
+5IWyGR3IAvSqxdhHSNp9qt,Easy Does It,10.0,2009-02-24,album,1n2pb9Tsfe4SwAjmUac6YT,51
+6NqVZuFGxaUOCWdoUDwCI8,Startin' With Me,11.0,2006-07-01,album,1n2pb9Tsfe4SwAjmUac6YT,45
+6gKFILGhTU67b06oNSSR43,Knowing You,2.0,2020-04-10,single,3grHWM9bx2E9vwJCdlRv9O,49
+0CBezlC6aZNKVf2554t53k,Here And Now,1.0,2020-02-21,single,3grHWM9bx2E9vwJCdlRv9O,61
+2neKEhAldnGfCDEkPE4kW0,Tip of My Tongue,1.0,2019-07-12,single,3grHWM9bx2E9vwJCdlRv9O,59
+0PH8RsRLAoyOdP0e130OHN,Better Boat (feat. Mindy Smith),1.0,2018-07-13,single,3grHWM9bx2E9vwJCdlRv9O,12
+6ciIitnPuPVGgmiAA3lGuq,Pirate Song,1.0,2018-06-29,single,3grHWM9bx2E9vwJCdlRv9O,22
+6QMrBMZCWR73bVS8K2MPVE,Song for the Saints,1.0,2018-06-01,single,3grHWM9bx2E9vwJCdlRv9O,23
+0bvZHrg1KM0jeoVOSUnMgM,Get Along,1.0,2018-04-06,single,3grHWM9bx2E9vwJCdlRv9O,46
+5c5n5tUSXcYt61elctBZMo,Christmas in Blue Chair Bay,1.0,2014-11-17,single,3grHWM9bx2E9vwJCdlRv9O,10
+69AV8jQqtFuAjtm4Zb7vXg,Rise Up,1.0,2011-09-12,single,3grHWM9bx2E9vwJCdlRv9O,9
+77spqXa3VNN0mw13PgWWyY,Songs for the Saints,11.0,2018-07-27,album,3grHWM9bx2E9vwJCdlRv9O,65
+2njb3cHa1yhUMdu8PT2VhY,Live in No Shoes Nation,29.0,2017-10-27,album,3grHWM9bx2E9vwJCdlRv9O,51
+0bBHLytjtuHYxKxuAE5G5G,Cosmic Hallelujah,12.0,2017-04-28,album,3grHWM9bx2E9vwJCdlRv9O,64
+2R5PAxygJ4YeRuSwoalKam,The Big Revival,11.0,2014-09-22,album,3grHWM9bx2E9vwJCdlRv9O,64
+52WqC6vXDQ9anMNugsUCeO,Life on a Rock,10.0,2013-04-30,album,3grHWM9bx2E9vwJCdlRv9O,52
+4u1IZuRRLb6tkP14kvAkGw,Welcome To The Fishbowl,12.0,2012-06-19,album,3grHWM9bx2E9vwJCdlRv9O,53
+1jbg4grojEFWidZQZRRcJk,Welcome To The Fishbowl (Track by Track),22.0,2012-06-19,album,3grHWM9bx2E9vwJCdlRv9O,0
+0EJVUQGqNRxYBBCS0OLqY7,Hemingway's Whiskey,11.0,2010-09-28,album,3grHWM9bx2E9vwJCdlRv9O,60
+4WZiQjmX5wVzQV7Aqk9AVP,Lucky Old Sun,11.0,2008-10-14,album,3grHWM9bx2E9vwJCdlRv9O,49
+7E1BiscM3O6aifwtcLdUG7,Just Who I Am: Poets & Pirates,11.0,2007-09-11,album,3grHWM9bx2E9vwJCdlRv9O,52
+3GEik2gbuXtRIKyYYvn2WV,Just Who I Am: Poets & Pirates,11.0,2007-09-07,album,3grHWM9bx2E9vwJCdlRv9O,23
+21pC8GFru8M98MhMCWONk9,Kenny Chesney Live,14.0,2006-09-16,album,3grHWM9bx2E9vwJCdlRv9O,40
+5uMLCobPh02IG3fyH0Dzec,The Road And The Radio,11.0,2005-11-07,album,3grHWM9bx2E9vwJCdlRv9O,57
+0U3pSVpKsVH2lIbNuVJKoI,Be As You Are,13.0,2005-01-25,album,3grHWM9bx2E9vwJCdlRv9O,50
+5xpXkqZo7ljnrvWSMpxxOn,When The Sun Goes Down (Deluxe Version),14.0,2004-02-02,album,3grHWM9bx2E9vwJCdlRv9O,49
+052CF6cpp0nAH67yuUrIp7,When The Sun Goes Down,11.0,2004-01-22,album,3grHWM9bx2E9vwJCdlRv9O,58
+4vLpAl3eThYWwJCX0Ru3DD,All I Want For Christmas Is A Real Good Tan,11.0,2003-10-04,album,3grHWM9bx2E9vwJCdlRv9O,26
+28fqmcfV4mpPsqhdNKUeTc,"No Shoes, No Shirt, No Problems",12.0,2002-04-02,album,3grHWM9bx2E9vwJCdlRv9O,56
+67qNNUSHekqSliS7Q1XZj6,Everywhere We Go,11.0,1999-02-26,album,3grHWM9bx2E9vwJCdlRv9O,58
+5ciyHwetCfRiFA4BS7SMKO,I Will Stand,11.0,1997,album,3grHWM9bx2E9vwJCdlRv9O,50
+5aG9PNqK9jLLJoehlNXlwW,Me And You,11.0,1996,album,3grHWM9bx2E9vwJCdlRv9O,44
+2OWY8X9HTnG6srfrO76bBL,All I Need To Know,10.0,1995-06-13,album,3grHWM9bx2E9vwJCdlRv9O,44
+74KxbVHBLgcsm6Ekr8arwd,In My Wildest Dreams,10.0,1994,album,3grHWM9bx2E9vwJCdlRv9O,28
+6NUcdndmwC54yLd0KosGI2,Be A Light,1.0,2020-03-30,single,6x2LnllRG5uGarZMsD4iO8,58
+31FV0sSOdWNOKgOHQefZ6M,Christmas In The Country,2.0,2019-11-20,single,6x2LnllRG5uGarZMsD4iO8,30
+79lKE9hAYu7G3Mn9hFXPeY,Nothin’ Out Here (HARDY feat. Thomas Rhett),1.0,2019-09-06,single,6x2LnllRG5uGarZMsD4iO8,38
+1zsufhuFqUpaqSbWpAWhvK,Look What God Gave Her (Acoustic),1.0,2019-06-14,single,6x2LnllRG5uGarZMsD4iO8,39
+1FGFqkB35zDg0TtrJJWNqW,Center Point Road,1.0,2019-05-24,single,6x2LnllRG5uGarZMsD4iO8,39
+1sQn79gifQ4VeR8FHDECme,Don't Threaten Me With A Good Time,1.0,2019-02-28,single,6x2LnllRG5uGarZMsD4iO8,36
+3Yl5E4IlQOVDr7xV6I76hY,Goodbye Summer,1.0,2018-08-03,single,6x2LnllRG5uGarZMsD4iO8,47
+0B2uPPBGgCOJ6ZvxGWVTw9,Marry Me (Remix),1.0,2018-06-08,single,6x2LnllRG5uGarZMsD4iO8,30
+1YEKN0Bpeo0i0coa5niw9F,Leave Right Now (The Remixes),4.0,2018-04-13,single,6x2LnllRG5uGarZMsD4iO8,37
+5txz8rm3pM2peZ3K8oPNd3,Spotify Singles,2.0,2017-12-06,single,6x2LnllRG5uGarZMsD4iO8,44
+5Cqbb3avfrpSH4EQS6fORX,Unforgettable (Radio Mix),1.0,2017-11-17,single,6x2LnllRG5uGarZMsD4iO8,29
+6UbNzec69vmBfLtzFywR7I,Die A Happy Man (The Remix),1.0,2016-06-24,single,6x2LnllRG5uGarZMsD4iO8,15
+1d5q8a4pbVi12UrhI3Kury,Something To Do With My Hands,1.0,2012-01-01,single,6x2LnllRG5uGarZMsD4iO8,26
+3OU2G4eb97eM1lMvhSWFvf,Thomas Rhett EP,5.0,2012-01-01,single,6x2LnllRG5uGarZMsD4iO8,38
+5gnWhEFNbtCn0RLG2cp90g,Center Point Road,16.0,2019-05-31,album,6x2LnllRG5uGarZMsD4iO8,75
+4aHakdIA1e8HoRRUsYszDY,Life Changes (Deluxe Version),21.0,2018-09-21,album,6x2LnllRG5uGarZMsD4iO8,52
+4w5Jvreahp3yvLqc4vCr9I,Life Changes,14.0,2017-09-08,album,6x2LnllRG5uGarZMsD4iO8,69
+6nBXl4WJtnGtcA1QUAC2lM,Life Changes (Big Machine Radio Release Special),29.0,2017-09-07,album,6x2LnllRG5uGarZMsD4iO8,67
+0qOpKQX8DBZaI6lhXv5aa0,Tangled Up (Deluxe),18.0,2016-10-28,album,6x2LnllRG5uGarZMsD4iO8,55
+0P8aZWnqAquGohixYHXoTL,Tangled Up (Deluxe / Big Machine Radio Release Special),36.0,2016-10-27,album,6x2LnllRG5uGarZMsD4iO8,47
+4ykbJPI8MPscFzROE8dqLy,Tangled Up,13.0,2015-01-01,album,6x2LnllRG5uGarZMsD4iO8,70
+5EJgQd6IcN7xvdmpARRk5b,Tangled Up,13.0,2015-01-01,album,6x2LnllRG5uGarZMsD4iO8,56
+2ZHYOFW5giX6a4n5eqTnUB,It Goes Like This,12.0,2013-01-01,album,6x2LnllRG5uGarZMsD4iO8,62
+65vvyHtiPwv9xiQFRdmjoM,It Goes Like This,12.0,2013-01-01,album,6x2LnllRG5uGarZMsD4iO8,42
+4sSCuPTJst3sfhHRvC76Ra,It Goes Like This,12.0,2012,album,6x2LnllRG5uGarZMsD4iO8,30
+6BOJ3r1s8u63at3Ou7HaVw,One Margarita,1.0,2020-03-13,single,0BvkDsjIUla7X0k6CSWh1I,57
+7u1Tix9DQQ5he0AESSfGkp,Born Here Live Here Die Here,1.0,2020-02-14,single,0BvkDsjIUla7X0k6CSWh1I,52
+0YgJpsCDakroRHWZ8WzgiT,What She Wants Tonight,1.0,2019-10-24,single,0BvkDsjIUla7X0k6CSWh1I,63
+4Q9RAjO1YjXgn5ErqvoNnS,Knockin' Boots,1.0,2019-03-29,single,0BvkDsjIUla7X0k6CSWh1I,65
+5V2XmMjFj67jL0Hsd7OxUY,What Makes You Country,1.0,2018-10-26,single,0BvkDsjIUla7X0k6CSWh1I,26
+73DvNFFJZKhPbbI9EZb7hF,Up Close With Luke Bryan,5.0,2017-12-15,single,0BvkDsjIUla7X0k6CSWh1I,6
+0gwoPCg4vqOECKqowDHTRz,Up Close With Luke Bryan,5.0,2017-12-14,single,0BvkDsjIUla7X0k6CSWh1I,4
+0Ynpbu4iLnqdFkfLHAjnWz,O Holy Night,1.0,2017-11-10,single,0BvkDsjIUla7X0k6CSWh1I,13
+5cy16pBwsgoLDcpoMFPzDv,Farm Tour…Here’s To The Farmer,5.0,2016-09-23,single,0BvkDsjIUla7X0k6CSWh1I,43
+12pZaG66bDXN3XRjF5rlGB,Live From Capitol Street Party,3.0,2011-01-01,single,0BvkDsjIUla7X0k6CSWh1I,0
+3uQBcPouETxmmNmYSpMqUY,Rhapsody Originals,6.0,2009-01-01,single,0BvkDsjIUla7X0k6CSWh1I,5
+6NUEU1vyIctdAg8IHot8Wy,What Makes You Country,15.0,2017-12-08,album,0BvkDsjIUla7X0k6CSWh1I,68
+2kUXqmlthYkv0yyW3N9cy8,Kill The Lights,13.0,2015-08-07,album,0BvkDsjIUla7X0k6CSWh1I,39
+0WtCqmpVN7rRGfDMSWSXBA,Kill The Lights (Deluxe),16.0,2015-08-07,album,0BvkDsjIUla7X0k6CSWh1I,67
+6OOTRO7lfMvDFQzNXby9i8,Spring Break...Checkin' Out,11.0,2015-03-10,album,0BvkDsjIUla7X0k6CSWh1I,53
+7lerMohLdPa3WIdXE9sH5p,Crash My Party (Deluxe),17.0,2014-08-12,album,0BvkDsjIUla7X0k6CSWh1I,52
+5M8gr5RV2eR6UkztC69ogB,Crash My Party,13.0,2013-01-01,album,0BvkDsjIUla7X0k6CSWh1I,71
+7fbh9n3m228iTvphr40LJN,Crash My Party (Deluxe Version),17.0,2013-01-01,album,0BvkDsjIUla7X0k6CSWh1I,34
+5uXnz1avW5OxFmroX5eSBu,Crash My Party (International Tour Edition),19.0,2013-01-01,album,0BvkDsjIUla7X0k6CSWh1I,44
+54ZCcmTHjghuPkzFYJzPGf,Spring Break...Here To Party,14.0,2013-01-01,album,0BvkDsjIUla7X0k6CSWh1I,54
+5IyIjKnGkQbYGVpWenblSe,Tailgates & Tanlines,13.0,2011-01-01,album,0BvkDsjIUla7X0k6CSWh1I,41
+4ybWq0AegFFAvHULAe7q0K,Tailgates & Tanlines,13.0,2011-01-01,album,0BvkDsjIUla7X0k6CSWh1I,68
+5zqme5HHaQXfVwIl8SMs5W,Tailgates & Tanlines,13.0,2011-01-01,album,0BvkDsjIUla7X0k6CSWh1I,44
+1pL0MPgFZlRnM7OVoX8D3f,Doin’ My Thing (Deluxe Edition),13.0,2009-10-06,album,0BvkDsjIUla7X0k6CSWh1I,37
+4DkSAOFnWkgrXske8pzELq,Doin' My Thing,13.0,2009-01-01,album,0BvkDsjIUla7X0k6CSWh1I,20
+13pqUKo7eRvMKFGpfCGyEF,Doin' My Thing,11.0,2009-01-01,album,0BvkDsjIUla7X0k6CSWh1I,62
+2WqHN90AQgk95Str6hWCt9,I'll Stay Me,11.0,2007-01-01,album,0BvkDsjIUla7X0k6CSWh1I,54
+5W0yU7K2XCMYGRw4Sc9xOx,Old Hat,1.0,2019-09-20,single,4MoAOfV4ROWofLG3a3hhBN,27
+5vPxkMnXCTzQ55LrzAjT7V,Tequila Little Time,1.0,2019-08-16,single,4MoAOfV4ROWofLG3a3hhBN,32
+7r8cDmr9uO22qvpR8IaWhS,Me And Jack,1.0,2019-07-19,single,4MoAOfV4ROWofLG3a3hhBN,33
+3KywI7OReNXNcDvZn8I6fg,Ain't Always The Cowboy,1.0,2019-06-21,single,4MoAOfV4ROWofLG3a3hhBN,38
+0JzXywsekILWEm0mBPKKhC,Heartache Medication,1.0,2019-05-20,single,4MoAOfV4ROWofLG3a3hhBN,60
+3bfiRIuAQ9SGM7DG0xgp52,California Sunrise (Live At Stagecoach 2017),1.0,2017-05-05,single,4MoAOfV4ROWofLG3a3hhBN,1
+08IaIcoTFnWKroZgUY3Ezp,Dirt On My Boots (Live At Stagecoach 2017),1.0,2017-05-05,single,4MoAOfV4ROWofLG3a3hhBN,0
+6x0EDAffuFSBcwupP2m4P8,Heartache On The Dance Floor (Live At Stagecoach 2017),1.0,2017-05-05,single,4MoAOfV4ROWofLG3a3hhBN,1
+1LqxKSLjw1BiTPS036wg8S,Dirt On My Boots (Remix),1.0,2017-03-03,single,4MoAOfV4ROWofLG3a3hhBN,34
+1AdPT0WwlsXejXahAEldhy,Night Shift,1.0,2016,single,4MoAOfV4ROWofLG3a3hhBN,25
+4B1IUKpspjSVnqYtcht4WY,"The B-Sides, 2011-2014",6.0,2015-05-18,single,4MoAOfV4ROWofLG3a3hhBN,48
+3dND43Z5k5wn5sJHGgz5mZ,Rdio Sessions (Live),5.0,2014-09-30,single,4MoAOfV4ROWofLG3a3hhBN,4
+2ny0Q7DWoI2GH1TlQTuBdD,Heartache Medication,14.0,2019-09-27,album,4MoAOfV4ROWofLG3a3hhBN,65
+1DTBcVfk3zXPHRmgpY6rFZ,California Sunrise,12.0,2016-05-13,album,4MoAOfV4ROWofLG3a3hhBN,74
+06gZYBNkDbO8Rl36rbMvkW,Write You A Song,11.0,2014-01-01,album,4MoAOfV4ROWofLG3a3hhBN,60
+7Fgy4IcWQY2W3bgcZ74XAK,Hailey’s Favs,5.0,2020-04-09,single,1uNFoZAHBGtllmzznpCI3s,41
+1aQW9ioTHpbORrlixwcv2j,Party,5.0,2020-04-07,single,1uNFoZAHBGtllmzznpCI3s,48
+5Em0z535tLjqboM09L88B6,Couple Goals,5.0,2020-04-02,single,1uNFoZAHBGtllmzznpCI3s,51
+49MZjKQcooZ8zJzMKPjbas,Biebs and Chill,5.0,2020-03-31,single,1uNFoZAHBGtllmzznpCI3s,42
+7ETSgNWJBBsjscYnuyGV1b,Work From Home,5.0,2020-03-26,single,1uNFoZAHBGtllmzznpCI3s,57
+2doxS53qPZtV4AnpXFg3Bi,R&Bieber,5.0,2020-03-24,single,1uNFoZAHBGtllmzznpCI3s,42
+5CkGOdgj9Ajwt2yeoAVRhc,Intentions (Acoustic),1.0,2020-03-19,single,1uNFoZAHBGtllmzznpCI3s,59
+5Oy4LUESdrOchyGcLup9qi,Yummy (Country Remix),1.0,2020-02-19,single,1uNFoZAHBGtllmzznpCI3s,48
+55zg331p7m1EFA4uRggkwt,Intentions,1.0,2020-02-07,single,1uNFoZAHBGtllmzznpCI3s,83
+6ge0V8IXA7yL1SUSIAfAzO,Yummy (Summer Walker Remix),1.0,2020-02-03,single,1uNFoZAHBGtllmzznpCI3s,53
+0GzsdiiItPCABfhuFIKiZi,Get Me,1.0,2020-01-28,single,1uNFoZAHBGtllmzznpCI3s,64
+1SN6N3fNkZk5oXQ9X46QZ3,Yummy,1.0,2020-01-03,single,1uNFoZAHBGtllmzznpCI3s,81
+2YtdV4AkQesuqE6UwSADk7,"10,000 Hours (with Justin Bieber) [Piano]",1.0,2019-11-27,single,1uNFoZAHBGtllmzznpCI3s,61
+4ow6xJwn49gpWz7iHpOzWY,"10,000 Hours (with Justin Bieber)",1.0,2019-10-04,single,1uNFoZAHBGtllmzznpCI3s,80
+6lMlX68jJrx67hiCqdiDvW,bad guy (with Justin Bieber),1.0,2019-07-11,single,1uNFoZAHBGtllmzznpCI3s,71
+1alDPx3BdkU4YBHRZ8gGLu,I Don't Care (with Justin Bieber) [Chronixx & Koffee Remix],1.0,2019-06-25,single,1uNFoZAHBGtllmzznpCI3s,43
+2oCs0DGTsRO98Gh5ZSl2Cx,I Don't Care (with Justin Bieber) [Loud Luxury Remix],1.0,2019-06-14,single,1uNFoZAHBGtllmzznpCI3s,55
+35Cuz13gq76FoBKrEMlYTT,I Don't Care (with Justin Bieber) [Jonas Blue Remix],1.0,2019-06-07,single,1uNFoZAHBGtllmzznpCI3s,59
+5Nux7ozBJ5KJ02QYWwrneR,I Don't Care (with Justin Bieber),1.0,2019-05-10,single,1uNFoZAHBGtllmzznpCI3s,77
+02drHFQa59AoJWU6DXSSjd,No Brainer,1.0,2018-07-27,single,1uNFoZAHBGtllmzznpCI3s,65
+7bRlnYERYzmXE5ljBfk2v6,No Brainer,1.0,2018-07-27,single,1uNFoZAHBGtllmzznpCI3s,4
+31duzWUmsXuuXpV9qfi536,Friends (with BloodPop® & Julia Michaels) [Remix],1.0,2017-10-20,single,1uNFoZAHBGtllmzznpCI3s,37
+7huML9zDbY4thKH0xSuZTP,Friends (with BloodPop®),1.0,2017-08-17,single,1uNFoZAHBGtllmzznpCI3s,64
+6GY8rrxuEzSJI08F0rfigi,Sorry (Latino Remix),1.0,2015-11-06,single,1uNFoZAHBGtllmzznpCI3s,48
+5V5T5fcIXdGH01QNFWEX69,Wait For A Minute,1.0,2013-01-01,single,1uNFoZAHBGtllmzznpCI3s,49
+5a5VMT422hJIl5urrANVtm,As Long As You Love Me (Remixes),12.0,2012-09-07,single,1uNFoZAHBGtllmzznpCI3s,29
+27yyZeg059R0ilMJFkGe59,Beauty And A Beat (Remixes),12.0,2012-01-01,single,1uNFoZAHBGtllmzznpCI3s,30
+0Rm1cldwNQE70AnlRCT279,Boyfriend (Dada Life Remix),1.0,2012-01-01,single,1uNFoZAHBGtllmzznpCI3s,11
+59afW16lg1vvJ3emrlSHTp,Boyfriend (Remixes),8.0,2012-01-01,single,1uNFoZAHBGtllmzznpCI3s,18
+21z9FNiaJZpICt53krDAby,Turn To You (Mother's Day Dedication),1.0,2012-01-01,single,1uNFoZAHBGtllmzznpCI3s,32
+5xbtrUflu3wNjGVaLgaxDf,Eenie Meenie Cutmore Remixes,4.0,2010-06-25,single,1uNFoZAHBGtllmzznpCI3s,3
+7yCXgxWLZZEAiVsISKN3BF,Eenie Meenie,1.0,2010-03-23,single,1uNFoZAHBGtllmzznpCI3s,61
+6KIMD5cU71Cu9JMgnfDrLD,Baby,2.0,2010-01-01,single,1uNFoZAHBGtllmzznpCI3s,32
+1l7lrQ0vspjRE1OWwzKEaP,One Time (DJ Ironik Remix),1.0,2009-01-01,single,1uNFoZAHBGtllmzznpCI3s,3
+2ZIRZhIyxyVisUU5haXdHE,One Time (French 3 Trk),3.0,2009-01-01,single,1uNFoZAHBGtllmzznpCI3s,4
+3OqxBPBIqKrzJjeUNZcXnd,One Time (German 2 Trk),2.0,2009-01-01,single,1uNFoZAHBGtllmzznpCI3s,9
+4Fo44gv52Ckq6S1NW7cjx9,One Time (My Heart Edition),1.0,2009-01-01,single,1uNFoZAHBGtllmzznpCI3s,5
+63iWSELt9V1kV6RSMxN7Ii,Changes,17.0,2020-02-14,album,1uNFoZAHBGtllmzznpCI3s,91
+6Fr2rQkZ383FcMqFyT7yPr,Purpose (Deluxe),19.0,2015-11-13,album,1uNFoZAHBGtllmzznpCI3s,81
+3jJ5HhbOC2KB5fOZ2RgJTo,Purpose (Deluxe),19.0,2015-11-13,album,1uNFoZAHBGtllmzznpCI3s,60
+1rknZw4cyL9NInAqSwc8AA,Journals,16.0,2014-05-13,album,1uNFoZAHBGtllmzznpCI3s,66
+7Cz0XcQzoxUi7L7sfgXLml,Journals,15.0,2014-05-13,album,1uNFoZAHBGtllmzznpCI3s,59
+4yz9rO7Q1UC2rK5eLOxmS7,Believe Acoustic,11.0,2013-01-01,album,1uNFoZAHBGtllmzznpCI3s,62
+1RMfz6rbIyrQYChfcCoiJ4,Believe Acoustic,11.0,2013-01-01,album,1uNFoZAHBGtllmzznpCI3s,47
+5cxMa6oLINJzmZ8lF7wWQN,Believe,13.0,2012-01-01,album,1uNFoZAHBGtllmzznpCI3s,50
+70f70xLCpH7wHaVvB2oZT9,Believe (Deluxe Edition),17.0,2012-01-01,album,1uNFoZAHBGtllmzznpCI3s,73
+1ewP1pI4qMOpd5GJCSzSFM,Believe (Deluxe Edition),16.0,2012-01-01,album,1uNFoZAHBGtllmzznpCI3s,3
+0wZJCeyfJ0LVrrtH4CwQYw,Never Say Never - The Remixes,7.0,2011-01-01,album,1uNFoZAHBGtllmzznpCI3s,62
+67yocJ5ii5veHPFAayupUM,Never Say Never - The Remixes,7.0,2011-01-01,album,1uNFoZAHBGtllmzznpCI3s,20
+3cr4Xgz8nnfp7iYbVqwzzH,Under The Mistletoe,11.0,2011-01-01,album,1uNFoZAHBGtllmzznpCI3s,45
+0sH0tKZWzQlRVGv9rcwYEp,Under The Mistletoe,11.0,2011-01-01,album,1uNFoZAHBGtllmzznpCI3s,3
+6CfqnSKx0p1GCjdRpY0JAS,Under The Mistletoe (Deluxe Edition),16.0,2011-01-01,album,1uNFoZAHBGtllmzznpCI3s,29
+63MKT9hwmiMFFdFp5SdB1p,Under The Mistletoe (Deluxe Edition),15.0,2011-01-01,album,1uNFoZAHBGtllmzznpCI3s,57
+790wpCevrVtF2E6wMYHqFc,Under The Mistletoe (Deluxe Edition),15.0,2011-01-01,album,1uNFoZAHBGtllmzznpCI3s,29
+3BmcYMh0KYsimWL6p2gPa9,My World 2.0,10.0,2010-01-01,album,1uNFoZAHBGtllmzznpCI3s,72
+0ALfQaGYSvcRNV5OLbixA3,My Worlds (International Version),18.0,2010-01-01,album,1uNFoZAHBGtllmzznpCI3s,55
+0LFbHl14nV9InXzoj9qV33,My Worlds (Oz Version),19.0,2010-01-01,album,1uNFoZAHBGtllmzznpCI3s,33
+1frzMyOTpRjXVJv476f9LU,My Worlds Acoustic,10.0,2010-01-01,album,1uNFoZAHBGtllmzznpCI3s,41
+1rG5TDs3jYh6OU753I54CI,My World,7.0,2009-01-01,album,1uNFoZAHBGtllmzznpCI3s,67
+0sTWDNDdByvpadJqLYTR2U,My World (Canada Version - All BP's),8.0,2009-01-01,album,1uNFoZAHBGtllmzznpCI3s,45
+0T2XUrfe6kTPn9R41TQYnF,My World (France Version),9.0,2009-01-01,album,1uNFoZAHBGtllmzznpCI3s,34
+1imXAvLuowvPYIsFMYUPY0,South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix],1.0,2019-12-11,single,6eUKZXaKkcviH0Ku9w2n3V,52
+0Whkv3Bi9hP9ev2cFPlZR3,Antisocial (with Travis Scott) [MK Remix],1.0,2019-12-10,single,6eUKZXaKkcviH0Ku9w2n3V,53
+10VX50yto90Re5sFwoyz3p,Antisocial (with Travis Scott) [Steel Banglez & Zeph Ellis Remix],1.0,2019-12-10,single,6eUKZXaKkcviH0Ku9w2n3V,41
+1Uu0gCSEPnNj099VWt2eQk,Antisocial (with Travis Scott) [Ghali Remix],1.0,2019-12-06,single,6eUKZXaKkcviH0Ku9w2n3V,46
+1NXzlVvFqPATxSheVsEVZT,South of the Border (feat. Camila Cabello) [Acoustic],1.0,2019-11-29,single,6eUKZXaKkcviH0Ku9w2n3V,56
+05Bru0ZVTxp4orAyrZIA77,South of the Border (feat. Camila Cabello & Cardi B) [Sam Feldt Remix],1.0,2019-10-04,single,6eUKZXaKkcviH0Ku9w2n3V,49
+3BjxjIkTZKUpeZ6n5MYMNx,South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix],1.0,2019-09-27,single,6eUKZXaKkcviH0Ku9w2n3V,60
+71znMnnyOF4NIe4UpTYbw7,"Take Me Back To London (Remix) [feat. Stormzy, Jaykae & Aitch]",2.0,2019-08-23,single,6eUKZXaKkcviH0Ku9w2n3V,54
+1GHkv48TNqI8MKWJ1FwKFC,Remember The Name (feat. Eminem & 50 Cent),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,49
+6OGBP8kekV91cG9sghPEVw,1000 Nights (feat. Meek Mill & A Boogie wit da Hoodie),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,33
+0RDH4M8AhISBHwCVr2ByYX,Antisocial (with Travis Scott),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,42
+5FFIZArVcXAMVjPMUJxBy3,Beautiful People (Acoustic),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,39
+6Ev0UgdNwWq80Em5jknB95,Beautiful People (feat. Khalid) [Danny L Harle Harlecore Remix],1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,27
+2yiy9cd2QktrNvWC2EUi0k,Beautiful People (feat. Khalid) [Jack Wins Remix],1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,57
+2oEcytQ5u5QtR9VZc2XgE2,Beautiful People (feat. Khalid) [NOTD Remix],1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,57
+35pH6Mjv5ZAZ8PAzo8I4da,Feels (feat. Young Thug & J Hus),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,24
+3ZQZrCJHXZ1G6EYxzYGhuA,I Don't Want Your Money (feat. H.E.R.),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,28
+0kHdDpkkSlesh2UMKhF20G,Nothing On You (feat. Paulo Londra & Dave),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,47
+4es0SCGoooYKR36713JWNz,Put It All on Me (feat. Ella Mai),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,33
+0ccEi0a0jdxn6tTNAnKzAI,South of the Border (feat. Camila Cabello & Cardi B),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,41
+1e0B33rcH0vHHumZofYV3y,Way To Break My Heart (feat. Skrillex),1.0,2019-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,40
+4uoEruXjt0APvHaSqrwqPH,BLOW (with Chris Stapleton & Bruno Mars),1.0,2019-07-05,single,6eUKZXaKkcviH0Ku9w2n3V,59
+6Z5DhADmyybfKNdymaPLjB,Best Part of Me (feat. YEBBA),1.0,2019-07-05,single,6eUKZXaKkcviH0Ku9w2n3V,63
+3E12WU80fDMyu7GyIAx7wJ,Beautiful People (feat. Khalid),1.0,2019-06-28,single,6eUKZXaKkcviH0Ku9w2n3V,76
+1alDPx3BdkU4YBHRZ8gGLu,I Don't Care (with Justin Bieber) [Chronixx & Koffee Remix],1.0,2019-06-25,single,6eUKZXaKkcviH0Ku9w2n3V,43
+49bXZtlI5kQSqQMSCnSaWO,Cross Me (feat. Chance the Rapper & PnB Rock) [M-22 Remix],1.0,2019-06-21,single,6eUKZXaKkcviH0Ku9w2n3V,45
+2oCs0DGTsRO98Gh5ZSl2Cx,I Don't Care (with Justin Bieber) [Loud Luxury Remix],1.0,2019-06-14,single,6eUKZXaKkcviH0Ku9w2n3V,55
+35Cuz13gq76FoBKrEMlYTT,I Don't Care (with Justin Bieber) [Jonas Blue Remix],1.0,2019-06-07,single,6eUKZXaKkcviH0Ku9w2n3V,59
+34hxmcDX91rZtwckrSlq1X,I Don't Care (Acoustic),1.0,2019-05-31,single,6eUKZXaKkcviH0Ku9w2n3V,63
+5MKInakULmoBNApeB2ZB3A,Cross Me (feat. Chance the Rapper & PnB Rock),1.0,2019-05-24,single,6eUKZXaKkcviH0Ku9w2n3V,64
+5Nux7ozBJ5KJ02QYWwrneR,I Don't Care (with Justin Bieber),1.0,2019-05-10,single,6eUKZXaKkcviH0Ku9w2n3V,77
+7ECFU1lKlRqNn0WokJ6VDN,Happier (Kasbo Remix),1.0,2018-07-27,single,6eUKZXaKkcviH0Ku9w2n3V,38
+7057vj3r5jVIlis4uVnP2M,Happier (Cazzette Remix),1.0,2018-06-08,single,6eUKZXaKkcviH0Ku9w2n3V,25
+5GpwroXObdnETiIpVb1l23,Happier (Tiësto’s AFTR:HRS Remix),1.0,2018-06-01,single,6eUKZXaKkcviH0Ku9w2n3V,41
+2m5WUxYqXkJc2gdP805IKm,Happier (Acoustic),1.0,2018-05-25,single,6eUKZXaKkcviH0Ku9w2n3V,54
+5IEP2NdoJtkoThS0fkZmap,Perfect,1.0,2018-02-23,single,6eUKZXaKkcviH0Ku9w2n3V,41
+2MOs2gBy14kW9jYXbv2A3O,Perfect Symphony (Ed Sheeran & Andrea Bocelli),1.0,2017-12-15,single,6eUKZXaKkcviH0Ku9w2n3V,59
+52kvZcbEDm0v2kWZQXjuuA,Perfect Duet (Ed Sheeran & Beyoncé),1.0,2017-11-30,single,6eUKZXaKkcviH0Ku9w2n3V,66
+6RLYvSz7Ob7PLAvqxZNjBh,Perfect (Robin Schulz Remix),1.0,2017-11-24,single,6eUKZXaKkcviH0Ku9w2n3V,36
+4uJ318DIOMiA4y9vg2dRwv,Perfect (Acoustic),1.0,2017-11-10,single,6eUKZXaKkcviH0Ku9w2n3V,53
+3ZQ5TYGh6ei3IDnQ3GscGh,Perfect (Mike Perry Remix),1.0,2017-11-10,single,6eUKZXaKkcviH0Ku9w2n3V,35
+6y6RDTPqAox4sTHfy1piVX,Shape of You (Yxng Bane Remix),1.0,2017-08-11,single,6eUKZXaKkcviH0Ku9w2n3V,38
+2EexX71aSkFuYuRMwgWKkn,Castle on the Hill (Throttle Remix),1.0,2017-06-30,single,6eUKZXaKkcviH0Ku9w2n3V,38
+14mR6XKPmsxzvOYCkqubJF,Spotify Singles,2.0,2017-06-07,single,6eUKZXaKkcviH0Ku9w2n3V,59
+0gPq8o2JsJyVUyxzMITWBZ,Shape of You (NOTD Remix),1.0,2017-06-05,single,6eUKZXaKkcviH0Ku9w2n3V,31
+6LhLsGjkUVzAuywuuFIkdu,Castle on the Hill (Seeb Remix),1.0,2017-05-19,single,6eUKZXaKkcviH0Ku9w2n3V,33
+77lUgFzLJriGpyTx2pGbCO,Galway Girl (Martin Jensen Remix),1.0,2017-04-07,single,6eUKZXaKkcviH0Ku9w2n3V,47
+0LWRykrSX54AWiMZlV5uUk,Shape of You (feat. Zion & Lennox) [Latin Remix],1.0,2017-03-01,single,6eUKZXaKkcviH0Ku9w2n3V,49
+59KxIJM9NhO7kVYyh26Ulg,Shape of You (Stormzy Remix),1.0,2017-02-24,single,6eUKZXaKkcviH0Ku9w2n3V,47
+5j1qqBBmxrDu58pYAj8r9v,Shape of You (feat. Nyla & Kranium) [Major Lazer Remix],1.0,2017-02-24,single,6eUKZXaKkcviH0Ku9w2n3V,47
+6m47Bv7lQlUWNZ5W6N4XjJ,How Would You Feel (Paean),1.0,2017-02-16,single,6eUKZXaKkcviH0Ku9w2n3V,46
+3Zq8gpa3P0UM8H6XIY39Sn,Castle on the Hill (Acoustic),1.0,2017-02-10,single,6eUKZXaKkcviH0Ku9w2n3V,51
+5Nk90vGwn59ToxTvSNsKZw,Shape of You (Acoustic),1.0,2017-02-10,single,6eUKZXaKkcviH0Ku9w2n3V,56
+6K5S3fWJ6logqsusWVaJUG,Shape of You (Galantis Remix),1.0,2017-02-10,single,6eUKZXaKkcviH0Ku9w2n3V,41
+5YnGwVQx2OQ4CpcQeVDthP,Castle on the Hill,1.0,2017-01-06,single,6eUKZXaKkcviH0Ku9w2n3V,56
+7oJa8bPFKVbq4c7NswXHw8,Shape of You,1.0,2017-01-06,single,6eUKZXaKkcviH0Ku9w2n3V,64
+7aPgDPIX7ekjSTc1eLmyy8,Photograph (Jack Garratt Remix),1.0,2015-07-06,single,6eUKZXaKkcviH0Ku9w2n3V,8
+5jBBJP31P5ZMdWxo2OKaYt,Photograph (Felix Jaehn Remix),1.0,2015-06-18,single,6eUKZXaKkcviH0Ku9w2n3V,43
+42ChI9lOBjrA7bp5q8XwD1,Bloodstream (Chris Lorenzo Remix),1.0,2015-04-01,single,6eUKZXaKkcviH0Ku9w2n3V,11
+3NsLmV2pShmAj0k9CySrye,Bloodstream,2.0,2015-03-27,single,6eUKZXaKkcviH0Ku9w2n3V,35
+2WFfiru9h8SlaO5VpiYEP5,Bloodstream (Arty Remix),1.0,2015-03-27,single,6eUKZXaKkcviH0Ku9w2n3V,22
+2kumYlTSdm0hGwu1vQ5utY,Bloodstream,1.0,2015-02-27,single,6eUKZXaKkcviH0Ku9w2n3V,40
+4fnNeUsTKQli86EWazLiVZ,Thinking Out Loud (Alex Adair Remix),1.0,2014-11-07,single,6eUKZXaKkcviH0Ku9w2n3V,38
+0yJINpqqZPcRQhAnts7rPy,Don't (Don Diablo Remix),1.0,2014-10-17,single,6eUKZXaKkcviH0Ku9w2n3V,41
+44a1fzx5dGPT2VKliOw6MG,Don't (Xambassadors Remix),1.0,2014-10-17,single,6eUKZXaKkcviH0Ku9w2n3V,20
+47fsIFFdKkT1aibqeiZqe0,Don't,3.0,2014-08-22,single,6eUKZXaKkcviH0Ku9w2n3V,25
+2oVtDZf7Xk3gLY7qN78asX,Don't,4.0,2014-08-12,single,6eUKZXaKkcviH0Ku9w2n3V,47
+358s1FksXk3qh38nNdjJFk,Live and in Session,5.0,2014-08-11,single,6eUKZXaKkcviH0Ku9w2n3V,42
+4DHfWQYwbzWOVmy5euzaFP,Sing (feat. Nekfeu),1.0,2014-08-11,single,6eUKZXaKkcviH0Ku9w2n3V,15
+1lauDjICyj7zDpHVur6ro4,Friends,1.0,2014-07-03,single,6eUKZXaKkcviH0Ku9w2n3V,27
+50KbYv9LCZpytz20CHafys,"Live at Telekom Street Gigs, Zugspitze",4.0,2014-06-23,single,6eUKZXaKkcviH0Ku9w2n3V,11
+5Tb4ySF7ow5Zskf5xBVqMi,Don't,1.0,2014-06-13,single,6eUKZXaKkcviH0Ku9w2n3V,25
+2KfgXSt3qzyNjiZLbVlc21,Sing,3.0,2014-05-30,single,6eUKZXaKkcviH0Ku9w2n3V,28
+5HMc8jjJN8kP4Ik06YizEm,One,1.0,2014-05-16,single,6eUKZXaKkcviH0Ku9w2n3V,23
+7FUogAgrnR5AlV9aZosZWe,Sing,1.0,2014-04-07,single,6eUKZXaKkcviH0Ku9w2n3V,30
+2ytdzbTDT43a9T3Bjq2njx,Give Me Love,4.0,2012-11-30,single,6eUKZXaKkcviH0Ku9w2n3V,24
+6XDofNPyvBiUK6NLU2W0sv,Give Me Love,3.0,2012-11-21,single,6eUKZXaKkcviH0Ku9w2n3V,18
+27st1Ra1VgUfC2xieLuN7P,Lego House,5.0,2012-06-15,single,6eUKZXaKkcviH0Ku9w2n3V,28
+12xWD1Ix0cfktk6Vn2p7VJ,Drunk,5.0,2012-02-17,single,6eUKZXaKkcviH0Ku9w2n3V,20
+57nR5cJuiPZl2qBtAQppSJ,"You Need Me, I Don't Need You",1.0,2012-02-09,single,6eUKZXaKkcviH0Ku9w2n3V,4
+40TWM0OpD4tS3AoWLnUxIC,Songs I Wrote With Amy,5.0,2011-12-09,single,6eUKZXaKkcviH0Ku9w2n3V,43
+6iBvt4DAGNEJwIvM4vLPms,The A Team,4.0,2011-12-06,single,6eUKZXaKkcviH0Ku9w2n3V,38
+1xG2R130AOrGv0x1qBga8D,Lego House,5.0,2011-11-11,single,6eUKZXaKkcviH0Ku9w2n3V,39
+3j70EKOaR5iVk0BPW6lowR,The Slumdon Bridge EP,4.0,2011-09-09,single,6eUKZXaKkcviH0Ku9w2n3V,24
+2b9Zf72wY6kwvcblYXtB4q,"You Need Me, I Don't Need You",5.0,2011-08-26,single,6eUKZXaKkcviH0Ku9w2n3V,27
+5DtgUQOe0XsYdyKtP3vBxc,iTunes Festival London 2011,5.0,2011-07-11,single,6eUKZXaKkcviH0Ku9w2n3V,1
+7jfNbUImln4VF01QtMpe0q,The A Team,5.0,2011-06-10,single,6eUKZXaKkcviH0Ku9w2n3V,44
+5WPSOiEAYPP2CAww0MwRK1,The A Team,1.0,2011-05-01,single,6eUKZXaKkcviH0Ku9w2n3V,18
+3Zao4egmTSVP5LfAhHO4o1,Spotify Session,4.0,2011,single,6eUKZXaKkcviH0Ku9w2n3V,30
+6b6NoQ00gDKdOUBxRYTA7t,You Need Me,5.0,2009,single,6eUKZXaKkcviH0Ku9w2n3V,38
+3oIFxDIo2fwuk4lwCmFZCx,No.6 Collaborations Project,15.0,2019-07-12,album,6eUKZXaKkcviH0Ku9w2n3V,85
+5oUZ9TEZR3wOdvqzowuNwl,No.6 Collaborations Project,15.0,2019-07-12,album,6eUKZXaKkcviH0Ku9w2n3V,61
+3T4tUhGYeRNVUGevb0wThu,÷ (Deluxe),16.0,2017-03-03,album,6eUKZXaKkcviH0Ku9w2n3V,87
+0MeOIA0wwSa6nW79jy8QcZ,x (Wembley Edition),23.0,2015-11-13,album,6eUKZXaKkcviH0Ku9w2n3V,64
+2hyDesSAYNefikDJXlqhPE,5,32.0,2014-06-23,album,6eUKZXaKkcviH0Ku9w2n3V,59
+1xn54DMo2qIqBuMqHtUsFd,x (Deluxe Edition),16.0,2014-06-21,album,6eUKZXaKkcviH0Ku9w2n3V,81
+0Yi8StK0Si3u2bLr3Qsm2Q,x (Wembley Edition),24.0,2013,album,6eUKZXaKkcviH0Ku9w2n3V,44
+3hA2oZbZwHU8tSPBFIZhFr,x (Wembley Edition),24.0,2013,album,6eUKZXaKkcviH0Ku9w2n3V,51
+6NoBzYmh5gUusGPCfg0pct,x (Wembley Edition),24.0,2013,album,6eUKZXaKkcviH0Ku9w2n3V,65
+4JUtnlZKdLr01xEIymhm0G,Live at the Bedford,6.0,2011-12-09,album,6eUKZXaKkcviH0Ku9w2n3V,42
+3QbPtoOWiJqZurXXxJwaOD,Loose Change,8.0,2011-12-09,album,6eUKZXaKkcviH0Ku9w2n3V,49
+1slAnKc9Ykyght8EI9Y0dM,+,18.0,2011-09-09,album,6eUKZXaKkcviH0Ku9w2n3V,33
+3w0VffyaakTvUtTwjPCo7Y,+,16.0,2011-09-09,album,6eUKZXaKkcviH0Ku9w2n3V,54
+02pi98kE0nra0yBqCStzbC,+,16.0,2011-09-09,album,6eUKZXaKkcviH0Ku9w2n3V,74
+2PNtGh8cixtb0oXjbGkUnZ,+,12.0,2011-09-09,album,6eUKZXaKkcviH0Ku9w2n3V,14
+0W5GGnapMz0VwemQvJDqa7,+,12.0,2011-09-09,album,6eUKZXaKkcviH0Ku9w2n3V,67
+6DpIyaMgt5p9HlGd1c0LDM,No.5 Collaborations Project,8.0,2011-09-09,album,6eUKZXaKkcviH0Ku9w2n3V,46
+6l7iXnb2Y4yDR9zag3kckA,The Man (Live From Paris),1.0,2020-02-18,single,06HL4z0CvFAxyc27GXpf02,53
+5sZIjREu3s225wwqJkgsYV,You're Not Sorry (CSI Remix),1.0,2020-02-07,single,06HL4z0CvFAxyc27GXpf02,43
+2Z2KdJE0nGGu0qdWA45mza,Love Story,1.0,2020-02-07,single,06HL4z0CvFAxyc27GXpf02,48
+1iab5rfjNpGhoPlFzPyp4k,Love Story (Pop Mix),1.0,2020-02-07,single,06HL4z0CvFAxyc27GXpf02,39
+5LGsh3kexUfi3qkIIxb8vK,Only The Young (Featured in Miss Americana),1.0,2020-01-31,single,06HL4z0CvFAxyc27GXpf02,68
+5JnnrTE35MQagEnEkFthiF,Christmas Tree Farm,1.0,2019-12-06,single,06HL4z0CvFAxyc27GXpf02,51
+6Ou4LWiU2Vu2V7KdHzw9At,Lover (First Dance Remix),1.0,2019-11-26,single,06HL4z0CvFAxyc27GXpf02,44
+59YCk9wEnWWopdzu4Yh1dJ,"Beautiful Ghosts (From The Motion Picture ""Cats"")",1.0,2019-11-15,single,06HL4z0CvFAxyc27GXpf02,45
+2UfvnX1YYeC2cExMQTMbXC,Lover (Remix) [feat. Shawn Mendes],1.0,2019-11-13,single,06HL4z0CvFAxyc27GXpf02,71
+531nfs5NPsmkRC1LJb1cdj,You Need To Calm Down (Clean Bandit Remix),1.0,2019-08-20,single,06HL4z0CvFAxyc27GXpf02,44
+7gU675c7KZ54MzEcL1O3px,Delicate (Seeb Remix),1.0,2018-06-08,single,06HL4z0CvFAxyc27GXpf02,44
+7HEXQkjBNiZilJcTWXwLOA,Delicate (Sawyr And Ryan Tedder Mix),1.0,2018-05-25,single,06HL4z0CvFAxyc27GXpf02,33
+74utZeTCeaXy01BjOddyv8,Spotify Singles,2.0,2018-04-13,single,06HL4z0CvFAxyc27GXpf02,51
+45fMDoh9dhhQicddIZzhKM,...Ready For It? (BloodPop® Remix),1.0,2017-12-01,single,06HL4z0CvFAxyc27GXpf02,40
+1Tv3rrFNdXGtTeP1plX2xE,Bad Blood,1.0,2015-05-17,single,06HL4z0CvFAxyc27GXpf02,54
+11e4xCXllbvk8pWc1cCas1,Sweeter Than Fiction,1.0,2013-10-21,single,06HL4z0CvFAxyc27GXpf02,37
+4T5606j6qpkQrWlwbKPLOp,Ronan,1.0,2012-09-08,single,06HL4z0CvFAxyc27GXpf02,36
+7cfhaRiLqBzuAzc6Q24nyW,Today Was A Fairytale,1.0,2011-02-15,single,06HL4z0CvFAxyc27GXpf02,42
+2JK0T590oG0pJckY9HRniL,Today Was A Fairytale,1.0,2010-01-01,single,06HL4z0CvFAxyc27GXpf02,36
+7vzYp7FrKnTRoktBYsx9SF,The Taylor Swift Holiday Collection,6.0,2008-12-02,single,06HL4z0CvFAxyc27GXpf02,42
+1NAmidJlEaVgA3MpcPFYGq,Lover,18.0,2019-08-23,album,06HL4z0CvFAxyc27GXpf02,88
+6DEjYFkNZh67HP7R9PSZvv,reputation,15.0,2017-11-10,album,06HL4z0CvFAxyc27GXpf02,77
+1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,46.0,2017-11-09,album,06HL4z0CvFAxyc27GXpf02,67
+1Hrs3jLGexOvBoaPMoOQYJ,reputation (Big Machine Radio Release Special),31.0,2017-11-08,album,06HL4z0CvFAxyc27GXpf02,73
+0bEySlRAkuPxV9KVWhXXBr,Taylor Swift Karaoke: 1989 (Deluxe),16.0,2015-02-01,album,06HL4z0CvFAxyc27GXpf02,27
+4uUAUqIfSomFTbbjGp3TYp,1989,13.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,42
+2QJmrSgbdM35R67eoGQo4j,1989,13.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,69
+7N3xz2HFNVH5BEkm8ZVmoR,Taylor Swift Karaoke: 1989 (Deluxe),16.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,3
+0L3oaZUj3loxosjvugCLGG,Taylor Swift Karaoke: 1989 (Deluxe Edition),16.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,10
+02H4kc9YLgorpUIREOwa0q,Taylor Swift Karaoke: 1989,13.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,20
+34OkZVpuzBa9y40DCy0LPR,1989 (Deluxe Edition),19.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,65
+5LVuISYu2g4YbyxYhFPIbK,1989 (Deluxe),19.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,38
+4R3hKmiJWEjRe6l03DoV9t,1989 (Deluxe Edition),15.0,2014-10-27,album,06HL4z0CvFAxyc27GXpf02,17
+6EsTJnpahwW6xX20zvqQgZ,1989 (Big Machine Radio Release Special),26.0,2014-10-26,album,06HL4z0CvFAxyc27GXpf02,66
+5fy0X0JmZRZnVa2UEicIOl,1989,13.0,2014-01-01,album,06HL4z0CvFAxyc27GXpf02,70
+1yGbNOtRIgdIiGHOEBaZWf,1989 (Deluxe),19.0,2014-01-01,album,06HL4z0CvFAxyc27GXpf02,77
+1KlU96Hw9nlvqpBPlSqcTV,Red (Deluxe Edition),22.0,2012-10-22,album,06HL4z0CvFAxyc27GXpf02,67
+1KVKqWeRuXsJDLTW0VuD29,Red (Deluxe Edition),22.0,2012-10-22,album,06HL4z0CvFAxyc27GXpf02,67
+1EoDsNmgTLtmwe1BDAVxV5,Red,16.0,2012-10-22,album,06HL4z0CvFAxyc27GXpf02,65
+7daMnnffzVSbNJj8Dy75Ev,Red,16.0,2012-10-22,album,06HL4z0CvFAxyc27GXpf02,19
+63lVCnv8B30qedCiTlAc9J,Red (Karaoke Version),16.0,2012-10-22,album,06HL4z0CvFAxyc27GXpf02,0
+11gfxXxJPd3j6sdWUyEA5S,Taylor Swift Karaoke: Red,16.0,2012-10-22,album,06HL4z0CvFAxyc27GXpf02,17
+4jTYApZPMapg56gRycOn0D,Red (Big Machine Radio Release Special),32.0,2012-10-21,album,06HL4z0CvFAxyc27GXpf02,75
+5EpMjweRD573ASl7uNiHym,Speak Now (Deluxe Edition),20.0,2010-10-25,album,06HL4z0CvFAxyc27GXpf02,64
+5MfAxS5zz8MlfROjGQVXhy,Speak Now,14.0,2010-10-25,album,06HL4z0CvFAxyc27GXpf02,63
+3QXlUpSDgakWZK2WqQv0pF,Speak Now (Karaoke Version),14.0,2010-10-25,album,06HL4z0CvFAxyc27GXpf02,16
+1BdjHo5IR6twMhJDxzlpLt,Taylor Swift Karaoke: Speak Now,14.0,2010-10-25,album,06HL4z0CvFAxyc27GXpf02,14
+4ErTrymYK8VIBQR8J8Hjy1,Speak Now (Japanese Version),16.0,2010-10-25,album,06HL4z0CvFAxyc27GXpf02,22
+6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,16.0,2010-10-25,album,06HL4z0CvFAxyc27GXpf02,52
+75N0Z60SNMQbAPYZuxKgWd,Speak Now (Big Machine Radio Release Special),28.0,2010-10-24,album,06HL4z0CvFAxyc27GXpf02,55
+6Ar2o9KCqcyYF9J0aQP3au,Speak Now,14.0,2010-01-01,album,06HL4z0CvFAxyc27GXpf02,66
+6GPyXXND6hIZpd9bRhCsFv,Speak Now (US Version),14.0,2010-01-01,album,06HL4z0CvFAxyc27GXpf02,39
+6S6JQWzUrJVcJLK4fi74Fw,Speak Now (Deluxe Package),22.0,2010-01-01,album,06HL4z0CvFAxyc27GXpf02,63
+3Mvk2LKxfhc2KVSnDYC40I,Fearless,20.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,30
+6tgMb6LEwb3yj7BdYy462y,Fearless,17.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,39
+08CWGiv27MVQhYpuTtvx83,Fearless (International Version),16.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,52
+2dqn5yOQWdyGwOpOIi9O4x,Fearless,13.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,67
+1CYlmaXajTC59VJWSSeE7Y,Fearless (Karaoke Version),13.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,18
+6vRfYCQ1mKKfnB6D7R4N5p,Fearless Karaoke,13.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,13
+2gP2LMVcIFgVczSJqn340t,Fearless (Platinum Edition),19.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,59
+43OpbkiiIxJO8ktIB777Nn,Fearless Platinum Edition,19.0,2008-11-11,album,06HL4z0CvFAxyc27GXpf02,60
+3EzFY9Rg0PpbADMth746zi,Fearless (Big Machine Radio Release Special),26.0,2008-11-10,album,06HL4z0CvFAxyc27GXpf02,70
+1rwH2628RIOVM3WMwwO418,Fearless,13.0,2008-01-01,album,06HL4z0CvFAxyc27GXpf02,43
+7mzrIsaAjnXihW3InKjlC3,Taylor Swift,15.0,2006-10-24,album,06HL4z0CvFAxyc27GXpf02,64
+5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,15.0,2006-10-24,album,06HL4z0CvFAxyc27GXpf02,57
+1mFGeuBwVfAyli6aDoy9OI,Taylor Swift (Karaoke Version),14.0,2006-10-24,album,06HL4z0CvFAxyc27GXpf02,10
+1ymIvQpnPQBj1lGlJRqrFQ,Taylor Swift Karaoke,14.0,2006-10-24,album,06HL4z0CvFAxyc27GXpf02,11
+2rU7u7C2v5i45MFVxx7xG1,Taylor Swift (Big Machine Radio Release Special),30.0,2006-10-23,album,06HL4z0CvFAxyc27GXpf02,64
+3dbGt0XseArzHevp1kBYHD,Supercut (El-P Remix),1.0,2018-03-09,single,163tK9Wjr9P9DmM0AVK7lm,35
+7kXQ0AvaykUJMxR0gRfr4d,"Homemade Dynamite (Feat. Khalid, Post Malone & SZA) [REMIX]",1.0,2017-09-14,single,163tK9Wjr9P9DmM0AVK7lm,47
+5oj6N6xLROv6pLctdOhENm,Homemade Dynamite (REMIX),1.0,2017-09-14,single,163tK9Wjr9P9DmM0AVK7lm,0
+1h8c5s02EHw89eddxInlul,"Homemade Dynamite (Feat. Khalid, Post Malone & SZA) [REMIX]",1.0,2017-09-14,single,163tK9Wjr9P9DmM0AVK7lm,27
+7IbLnQpLU1n85xtPPr9dbR,Green Light (Chromeo Remix),1.0,2017-05-19,single,163tK9Wjr9P9DmM0AVK7lm,42
+112eEMM7VwHVEknE4hHjjY,Flicker (Kanye West Rework) [From The Hunger Games: Mockingjay Part 1],1.0,2014-11-11,single,163tK9Wjr9P9DmM0AVK7lm,42
+7sg5iqMiDrM2aJqLAmv83V,Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1),1.0,2014-09-30,single,163tK9Wjr9P9DmM0AVK7lm,52
+2eDQDP6uhkBOtQKctBWXhN,Royals / 400 Lux,2.0,2014-04-04,single,163tK9Wjr9P9DmM0AVK7lm,4
+6Ukmi7AfxNAUrwmVWBwJ1a,Team (Live At The 2013 ARIA Awards),1.0,2014-04-04,single,163tK9Wjr9P9DmM0AVK7lm,4
+2Pf42OiIQLrA9swcdJGFqv,Royals / Tennis Court,2.0,2014-03-31,single,163tK9Wjr9P9DmM0AVK7lm,3
+7EUGqK1EQw2k02BFR1hu47,Tennis Court,2.0,2013-01-01,single,163tK9Wjr9P9DmM0AVK7lm,15
+0CvwwhkzMUiDm8cQqtN6Ys,Live In Concert,4.0,2013-01-01,single,163tK9Wjr9P9DmM0AVK7lm,40
+0u5tyaipbUJjHgkceoPtM7,Royals,1.0,2013-01-01,single,163tK9Wjr9P9DmM0AVK7lm,15
+2RHYxz7blfHR3iVxPtc25G,The Love Club EP,6.0,2013-01-01,single,163tK9Wjr9P9DmM0AVK7lm,30
+4oCGmYsAQOWt2ACWTpNUU6,Melodrama,12.0,2017-11-10,album,163tK9Wjr9P9DmM0AVK7lm,67
+6tBpgZG9bV76nSuiz42RbA,Melodrama,12.0,2017-11-10,album,163tK9Wjr9P9DmM0AVK7lm,22
+2B87zXm9bOWvAJdkJBTpzF,Melodrama,11.0,2017-06-16,album,163tK9Wjr9P9DmM0AVK7lm,73
+0RprDFd8KN06rt0jyKXBsC,Melodrama,11.0,2017-06-16,album,163tK9Wjr9P9DmM0AVK7lm,30
+2nPokmAvYy5qYO4rFU7ZDm,Pure Heroine,13.0,2013-01-01,album,163tK9Wjr9P9DmM0AVK7lm,9
+0rmhjUgoVa17LZuS8xWQ3v,Pure Heroine,10.0,2013-01-01,album,163tK9Wjr9P9DmM0AVK7lm,76
+6rnzvZhe3PA57xKcKLRtJ6,Pure Heroine (Extended),15.0,2013-01-01,album,163tK9Wjr9P9DmM0AVK7lm,67
+0FAWfXvd58Rm2VUSZMF8pr,Cayendo (Side A - Acoustic),1.0,2020-04-03,single,2h93pZq0e7k5yf4dywlkpM,66
+4XPUXLAWXqM3uWMTucItjd,Dear April (Side A - Acoustic),1.0,2020-04-03,single,2h93pZq0e7k5yf4dywlkpM,66
+71VX8yv9T2hNIYVZJVUWVp,In My Room,1.0,2019-11-02,single,2h93pZq0e7k5yf4dywlkpM,67
+2CLH9F9W9x1VZaCltWPqXR,In My Room,1.0,2019-11-02,single,2h93pZq0e7k5yf4dywlkpM,21
+1Fh1gzTOImG12M35w3nqQF,DHL,1.0,2019-10-19,single,2h93pZq0e7k5yf4dywlkpM,63
+4KEZoY1iPTxwCsGSm1sGAM,DHL,1.0,2019-10-19,single,2h93pZq0e7k5yf4dywlkpM,12
+0iqqnLXoocsMeCYlTw3Q2q,Moon River,1.0,2018-02-14,single,2h93pZq0e7k5yf4dywlkpM,60
+7uSaHPXSYaRB3FxLOmatG9,Provider,1.0,2017-08-27,single,2h93pZq0e7k5yf4dywlkpM,57
+46H4UzFHMLnGgpyrj9HpKr,Biking (Solo),1.0,2017-05-15,single,2h93pZq0e7k5yf4dywlkpM,49
+5F4I5eUqVK1CpQbzt1ntMC,Lens,1.0,2017-04-23,single,2h93pZq0e7k5yf4dywlkpM,51
+7yOOPJjNelITCaYMqk8V6r,Biking,1.0,2017-04-10,single,2h93pZq0e7k5yf4dywlkpM,60
+6OGzmhzHcjf0uN9j7dYvZH,Chanel,1.0,2017-03-10,single,2h93pZq0e7k5yf4dywlkpM,71
+68j4AeI3JdszaZ7mhCh4Yo,Thinkin Bout You,1.0,2012-01-01,single,2h93pZq0e7k5yf4dywlkpM,40
+3RYdEXhGHojkTILUdtnRVJ,Novacane,1.0,2011-01-01,single,2h93pZq0e7k5yf4dywlkpM,60
+5CNvBhVChhDnfy9bkS3fWH,Novacane,1.0,2011-01-01,single,2h93pZq0e7k5yf4dywlkpM,19
+3TLaFWQDhV1g39Qwd5sPAm,Swim Good,1.0,2011-01-01,single,2h93pZq0e7k5yf4dywlkpM,56
+3mH6qwIy9crq0I9YQbOuDf,Blonde,17.0,2016-08-20,album,2h93pZq0e7k5yf4dywlkpM,81
+392p3shh2jkxUxY2VHvlH8,channel ORANGE,17.0,2012-01-01,album,2h93pZq0e7k5yf4dywlkpM,74
+6vzH59tobnxE5WXMiqvBIx,channel ORANGE,17.0,2012-01-01,album,2h93pZq0e7k5yf4dywlkpM,33
+623Ef2ZEB3Njklix4PC0Rs,channel ORANGE (Explicit Version),17.0,2012-01-01,album,2h93pZq0e7k5yf4dywlkpM,72
